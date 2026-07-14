@@ -1,0 +1,82 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id qEGBHO1RYmRFOwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Mon, 15 May 2023 21:08:21 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Mon, 15 May 2023 21:08:21 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1pyaHF-00045l-1C
+	for anandaloke@server206.domainonair.com;
+	Mon, 15 May 2023 21:08:21 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pyaHF-00045f-0l@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1684165101-eximdsn-1091327833
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pyaHF-00045l-1C@server206.domainonair.com>
+Date: Mon, 15 May 2023 21:08:21 +0530
+
+--1684165101-eximdsn-1091327833
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1684165101-eximdsn-1091327833
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1684165101-eximdsn-1091327833
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pyaHF-00045f-0l
+	for info@anandaloke.com;
+	Mon, 15 May 2023 21:08:21 +0530
+To: info@anandaloke.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-appoint-home.php for 223.187.240.124
+X-PHP-Originating-Script: 1722:check-appoint-home.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From:
+Message-Id: <E1pyaHF-00045f-0l@server206.domainonair.com>
+Date: Mon, 15 May 2023 21:08:21 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Haripada Ghosh</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   9883042549</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   60</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   Cardiology</p>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   16/05/2023</p>
+				</body>
+				</html>
+
+--1684165101-eximdsn-1091327833--

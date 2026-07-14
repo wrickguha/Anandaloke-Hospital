@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id ANeVOOvwIGRBNgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Mon, 27 Mar 2023 06:57:07 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Mon, 27 Mar 2023 06:57:07 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1pgbdb-0003gp-2I
+	for anandaloke@server206.domainonair.com;
+	Mon, 27 Mar 2023 06:57:07 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pgbdb-0003gf-1n@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679880427-eximdsn-1857408359
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pgbdb-0003gp-2I@server206.domainonair.com>
+Date: Mon, 27 Mar 2023 06:57:07 +0530
+
+--1679880427-eximdsn-1857408359
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1679880427-eximdsn-1857408359
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1679880427-eximdsn-1857408359
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pgbdb-0003gf-1n
+	for info@anandaloke.com;
+	Mon, 27 Mar 2023 06:57:07 +0530
+To: info@anandaloke.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 161.123.150.177
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pgbdb-0003gf-1n@server206.domainonair.com>
+Date: Mon, 27 Mar 2023 06:57:07 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Tandy Bateman</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   0322 4118197</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   bateman.tandy@hotmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   Iojdn Yzte</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Female</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. Samarth Agarwal MBBS, MS, MCH, KGMU, FICS</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   Ggp isl Vs w</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   *INFO SERVICE EXPIRATION FOR anandaloke.com
+
+Attention: Accounts Payable / Domain Owner / Anandaloke Hospital, Hospital in siliguri, Hospitals in siliguri, Hospital in Darjeeling, Nursing home in siliguri 
+
+Your Domain: www.anandaloke.com 
+Expected Reply before: Mar 26, 2023.
+
+This Notice for: www.anandaloke.com will expire on Mar 26, 2023. 
+
+
+
+*For details and to make a payment for anandaloke.com services by credit card:
+
+Visit: https://namecheapse.com/?web=anandaloke.com
+
+
+032620232116380322 4118197
+</p>
+				</body>
+				</html>
+
+--1679880427-eximdsn-1857408359--

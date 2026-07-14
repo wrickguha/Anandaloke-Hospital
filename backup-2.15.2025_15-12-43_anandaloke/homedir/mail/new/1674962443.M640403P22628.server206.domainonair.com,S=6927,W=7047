@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id VSQPJgvm1WNkWAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 29 Jan 2023 08:50:43 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 29 Jan 2023 08:50:43 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pLyFH-0005sm-8q
+	for anandaloke@server206.domainonair.com;
+	Sun, 29 Jan 2023 08:50:43 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pLyFG-0005sc-TF@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1674962443-eximdsn-113565245
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pLyFH-0005sm-8q@server206.domainonair.com>
+Date: Sun, 29 Jan 2023 08:50:43 +0530
+
+--1674962443-eximdsn-113565245
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1674962443-eximdsn-113565245
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1674962443-eximdsn-113565245
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pLyFG-0005sc-TF
+	for sonoscan@anandaloke.com;
+	Sun, 29 Jan 2023 08:50:43 +0530
+To: sonoscan@anandaloke.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 212.102.57.2
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pLyFG-0005sc-TF@server206.domainonair.com>
+Date: Sun, 29 Jan 2023 08:50:42 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Ruben Smorgon</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   0323 9437740</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   hacker@streampickle.xyz</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. Amit  Kumar  Choudhary, MS, MCh</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   Your Site Has Been Hacked
+
+PLEASE FORWARD THIS EMAIL TO SOMEONE IN YOUR COMPANY WHO IS ALLOWED TO MAKE IMPORTANT DECISIONS!
+
+We have hacked your website http://www.anandaloke.com and extracted your databases.
+
+How did this happen?
+
+Our team has found a vulnerability within your site that we were able to exploit. After finding the vulnerability we were able to get your database credentials and extract your entire database and move the information to an offshore server.
+
+What does this mean?
+
+We will systematically go through a series of steps of totally damaging your reputation. First your database will be leaked or sold to the highest bidder which they will use with whatever their intentions are. Next if there are e-mails found they will be e-mailed that their information has been sold or leaked and your http://www.anandaloke.com was at fault thusly damaging your reputation and having angry customers/associates with whatever angry customers/associates do. Lastly any links that you have indexed in the search engines will be de-indexed based off of blackhat techniques that we used in the past to de-index our targets.
+
+How do I stop this?
+
+We are willing to refrain from destroying your site’s reputation for a small fee. The current fee is $3500 in bitcoins (0.15 BTC).
+
+The amount(approximately): $3500 (0.15 BTC)
+The Address Part 1: bc1q5q57dsrnf4nm00w0c
+The Address Part 2: 0yq92gfmf42g6n9ykccwg
+
+So, you have to manually copy + paste Part1 and Part2 in one string made of 42 characters with no space between the parts that start with "b" and end with "g" is the actually address where you should send the money to.
+
+ Once you have paid we will automatically get informed that it was your payment. Please note that you have to make payment within 72 hours after receiving this message or the database leak, e-mails dispatched, and de-index of your site WILL start!
+
+How do I get Bitcoins?
+
+You can easily buy bitcoins via several websites or even offline from a Bitcoin-ATM. 
+
+What if I don’t pay?
+
+If you decide not to pay, we will start the attack at the indicated date and uphold it until you do, there’s no counter measure to this, you will only end up wasting more money trying to find a solution. We will completely destroy your reputation amongst google and your customers.
+
+This is not a hoax, do not reply to this email, don’t try to reason or negotiate, we will not read any replies. Once you have paid we will stop what we were doing and you will never hear from us again!
+
+Please note that Bitcoin is anonymous and no one will find out that you have complied.</p>
+				</body>
+				</html>
+
+--1674962443-eximdsn-113565245--

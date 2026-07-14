@@ -1,0 +1,44 @@
+1. md@anandaloke.com  >> Tehran985$
+2. corporate@anandaloke.com >> Ahncadminlog$
+3. info@anandaloke.com  >> Ahncadminlog$
+4. support@anandaloke.com  >> Support1234$
+5. store@anandaloke.com  >> Ahncadminlog$
+6. hrd@anandaloke.com  >> Ahncadminlog$
+7. nursingschool@anandaloke.com  >> Anandalokens$
+8. paramedical@anandaloke.com  >> Paramedical$
+9. sonoscan@anandaloke.com  >> sonoscan123$
+
+10. meddirector@anandaloke.com >> Ahncadminlog$
+11. manager@anandaloke.com >> Ahncadminlog$
+12. pharmacy@anandaloke.com >> Ahncadminlog$
+13. smiletrain@anandaloke.com >> Ahncadminlog$
+14. nephro@anandaloke.com >> Ahncadminlog$
+
+---------------------------------------------------------------------------------------
+
+
+Web Mail Login URL
+
+email.secureserver.net
+
+---------------------------------------------------------------------------------------
+
+Email - Outlook Setup
+
+
+POP3
+Incoming mail server =	pop.secureserver.net
+Outgoing mail server(SMTP) = smtpout.secureserver.net
+
+IMAP
+Incoming mail server = imap.secureserver.net
+Outgoing mail server (SMTP) = smtpout.secureserver.net
+
+Click More Settings.
+Click the Outgoing Server tab. Select My outgoing server (SMTP) requires authentication and Use same settings as my incoming server.
+
+----------------------------------------------------------------------------------------
+
+User: ahncslg@gmail.com
+
+Pwd: Ahncadminlog$

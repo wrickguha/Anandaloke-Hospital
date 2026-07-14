@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id fVBwCKqTtWTjdwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 18 Jul 2023 00:46:58 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 18 Jul 2023 00:46:58 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1qLTiM-0007yu-03
+	for anandaloke@server206.domainonair.com;
+	Tue, 18 Jul 2023 00:46:58 +0530
+X-Failed-Recipients: corporate.ahnc2@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1qLTiL-0007yn-0e@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1689621418-eximdsn-1130288447
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qLTiM-0007yu-03@server206.domainonair.com>
+Date: Tue, 18 Jul 2023 00:46:58 +0530
+
+--1689621418-eximdsn-1130288447
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  corporate.ahnc2@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. a6-20020a056808120600b003a3632df6e4si19057oil.330 - gsmtp
+
+--1689621418-eximdsn-1130288447
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;corporate.ahnc2@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. a6-20020a056808120600b003a3632df6e4si19057oil.330 - gsmtp
+
+--1689621418-eximdsn-1130288447
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1qLTiL-0007yn-0e
+	for corporate.ahnc2@gmail.com;
+	Tue, 18 Jul 2023 00:46:57 +0530
+To: corporate.ahnc2@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 27.34.104.181
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: kaye.sabine@yahoo.com
+Message-Id: <E1qLTiL-0007yn-0e@server206.domainonair.com>
+Date: Tue, 18 Jul 2023 00:46:57 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Sabine Kaye</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   411 04 233</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   kaye.sabine@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Next generation SMART tech automates online profit</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi,
+
+So, my good friend Glynn has just stumbled across an
+amazing new method that generates thousands of dollars
+using 100% Free Traffic.
+
+The free traffic source in question is completely
+untapped, meaning now is the best time to jump in and
+siphon millions of visitors to your website, affiliate
+and CPA offers and BANK huge amount of money.
+
+Click below link if you are interested! (Only For Bloggers / Webmasters)
+>>>>> https://bit.ly/44oDt4W
+
+All you need to do is direct this traffic to your own affiliate
+link or website, and you’re in the money zone.
+
+Cheers
+
+Perry M
+98 Mantool Road
+MI, USA 44567</p>
+				</body>
+				</html>
+
+--1689621418-eximdsn-1130288447--

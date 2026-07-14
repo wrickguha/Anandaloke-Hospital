@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id HEmHFtf0EGTYfwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Wed, 15 Mar 2023 03:57:35 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Wed, 15 Mar 2023 03:57:35 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pcD7H-0008Vh-5Y
+	for anandaloke@server206.domainonair.com;
+	Wed, 15 Mar 2023 03:57:35 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pcD7G-0008Va-VL@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1678832855-eximdsn-1643139657
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pcD7H-0008Vh-5Y@server206.domainonair.com>
+Date: Wed, 15 Mar 2023 03:57:35 +0530
+
+--1678832855-eximdsn-1643139657
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1678832855-eximdsn-1643139657
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1678832855-eximdsn-1643139657
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pcD7G-0008Va-VL
+	for info@anandaloke.com;
+	Wed, 15 Mar 2023 03:57:35 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 45.152.198.176
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pcD7G-0008Va-VL@server206.domainonair.com>
+Date: Wed, 15 Mar 2023 03:57:34 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Eric Jones</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   555-555-1212</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   ericjonesmyemail@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Try this, get more leads</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi anandaloke.com Owner.
+
+My name is Eric and I’m betting you’d like your website anandaloke.com to generate more leads.
+
+Here’s how:
+Web Visitors Into Leads is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It signals you as soon as they say they’re interested – so that you can talk to that lead while they’re still there at anandaloke.com.
+
+Web Visitors Into Leads – CLICK HERE http://jumboleadmagnet.com for a live demo now.
+
+And now that you’ve got their phone number, our new SMS Text With Lead feature enables you to start a text (SMS) conversation – answer questions, provide more info, and close a deal that way.
+
+If they don’t take you up on your offer then, just follow up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+
+CLICK HERE http://jumboleadmagnet.com to discover what Web Visitors Into Leads can do for your business.
+
+The difference between contacting someone within 5 minutes versus a half-hour means you could be converting up to 100X more leads today!
+
+Try Web Visitors Into Leads and get more leads now.
+
+Eric
+PS: The studies show 7 out of 10 visitors don’t hang around – you can’t afford to lose them!
+Web Visitors Into Leads offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE http://jumboleadmagnet.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here http://jumboleadmagnet.com/unsubscribe.aspx?d=anandaloke.com
+</p>
+				</body>
+				</html>
+
+--1678832855-eximdsn-1643139657--

@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id +IXWAJDZ/2NIfAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Thu, 02 Mar 2023 04:32:40 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Thu, 02 Mar 2023 04:32:40 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pXVT5-0008H3-Px
+	for anandaloke@server206.domainonair.com;
+	Thu, 02 Mar 2023 04:32:39 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pXVT5-0008Gt-KH@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677711759-eximdsn-2099783399
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pXVT5-0008H3-Px@server206.domainonair.com>
+Date: Thu, 02 Mar 2023 04:32:39 +0530
+
+--1677711759-eximdsn-2099783399
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1677711759-eximdsn-2099783399
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1677711759-eximdsn-2099783399
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pXVT5-0008Gt-KH
+	for sonoscan@anandaloke.com;
+	Thu, 02 Mar 2023 04:32:39 +0530
+To: sonoscan@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 156.146.36.115
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pXVT5-0008Gt-KH@server206.domainonair.com>
+Date: Thu, 02 Mar 2023 04:32:39 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Marylyn Guilfoyle</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   0688 172 35 66</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   marylyn.guilfoyle79@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Hello anandaloke.com Owner.</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   I don't know about you, but whenever I look for a business online, the first thing I look at is their rating and the number of good reviews they have. That's exactly why I'm getting in touch with you now – in order to teach you ways to generate more real 5-star reviews that can help you receive more calls from your existing ads or listings. For more details, click the link: https://tinyurl.com/53waxne9</p>
+				</body>
+				</html>
+
+--1677711759-eximdsn-2099783399--

@@ -1,0 +1,116 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id RuJaMaEtj2N+bgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 06 Dec 2022 17:25:13 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 06 Dec 2022 17:25:13 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1p2WXZ-0007Lj-2U
+	for anandaloke@server206.domainonair.com;
+	Tue, 06 Dec 2022 17:25:13 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1p2WXY-0007LI-QI@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1670327713-eximdsn-1884365042
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1p2WXZ-0007Lj-2U@server206.domainonair.com>
+Date: Tue, 06 Dec 2022 17:25:13 +0530
+
+--1670327713-eximdsn-1884365042
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1670327713-eximdsn-1884365042
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1670327713-eximdsn-1884365042
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1p2WXY-0007LI-QI
+	for info@anandaloke.com;
+	Tue, 06 Dec 2022 17:25:12 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 165.231.225.127
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1p2WXY-0007LI-QI@server206.domainonair.com>
+Date: Tue, 06 Dec 2022 17:25:12 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Eric Jones</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   555-555-1212</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   ericjonesmyemail@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   There they go…</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hey, my name’s Eric and for just a second, imagine this…
+
+- Someone does a search and winds up at anandaloke.com.
+
+- They hang out for a minute to check it out.  “I’m interested… but… maybe…”
+
+- And then they hit the back button and check out the other search results instead. 
+
+- Bottom line – you got an eyeball, but nothing else to show for it.
+
+- There they go.
+
+This isn’t really your fault – it happens a LOT – studies show 7 out of 10 visitors to any site disappear without leaving a trace.
+
+But you CAN fix that.
+
+Talk With Web Visitor is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It lets you know right then and there – enabling you to call that lead while they’re literally looking over your site.
+
+CLICK HERE https://boostleadgeneration.com to try out a Live Demo with Talk With Web Visitor now to see exactly how it works.
+
+Time is money when it comes to connecting with leads – the difference between contacting someone within 5 minutes versus 30 minutes later can be huge – like 100 times better!
+
+Plus, now that you have their phone number, with our new SMS Text With Lead feature you can automatically start a text (SMS) conversation… so even if you don’t close a deal then, you can follow up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+
+Strong stuff.
+
+CLICK HERE https://boostleadgeneration.com to discover what Talk With Web Visitor can do for your business.
+
+You could be converting up to 100X more leads today!
+
+Eric
+PS: Talk With Web Visitor offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE https://boostleadgeneration.com to try Talk With Web Visitor now.
+
+If you'd like to unsubscribe click here http://boostleadgeneration.com/unsubscribe.aspx?d=anandaloke.com
+</p>
+				</body>
+				</html>
+
+--1670327713-eximdsn-1884365042--

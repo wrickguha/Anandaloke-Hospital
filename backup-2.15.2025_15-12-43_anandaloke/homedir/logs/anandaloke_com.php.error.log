@@ -1,0 +1,179 @@
+[10-Jun-2024 17:44:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Jul-2024 08:24:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Jul-2024 08:24:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Jul-2024 08:24:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Sep-2024 07:53:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Sep-2024 07:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[13-Sep-2024 07:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[14-Sep-2024 14:55:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[14-Sep-2024 14:56:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[18-Sep-2024 07:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[19-Sep-2024 04:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[01-Oct-2024 05:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[02-Oct-2024 21:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[03-Oct-2024 00:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[05-Oct-2024 22:13:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[11-Oct-2024 19:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[23-Oct-2024 00:43:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:16 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:19 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:20 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:21 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:22 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:24 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:25 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:26 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:28 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:30 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:31 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:33 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:34 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:35 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:36 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/anandaloke/public_html/backend/include/siteinfo.php:3
+Stack trace:
+#0 /home/anandaloke/public_html/header.php(4): include()
+#1 /home/anandaloke/public_html/eye-care.php(19): include('/home/anandalok...')
+#2 {main}
+  thrown in /home/anandaloke/public_html/backend/include/siteinfo.php on line 3
+[23-Nov-2024 11:37:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[23-Nov-2024 11:37:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[27-Nov-2024 07:03:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[07-Dec-2024 04:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[08-Dec-2024 10:04:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Dec-2024 10:05:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[08-Dec-2024 10:05:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[14-Dec-2024 04:56:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[14-Dec-2024 04:56:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[14-Dec-2024 04:56:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[14-Dec-2024 23:56:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[15-Dec-2024 22:55:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[15-Dec-2024 22:55:39 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[24-Dec-2024 14:55:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[24-Dec-2024 14:55:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 00:35:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[31-Dec-2024 11:17:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[07-Jan-2025 12:07:28 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_8ce9d9aae60d4f71576f33e7aa3efc8d, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 12:07:28 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 12:07:28 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_4a376e6ece431742c91d09b1bbbc2628, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:07:28 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:14:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_625500f428e00e3dd169621c4d8fcea3, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:14:44 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:14:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_6f7f9040103a391381dfbe5eec0b64ff, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:14:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:20:27 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_587d6ba9c7edee1337486ba24617ef17, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:20:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:27:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_e75f973a5664e1e4704b7a8b0769c20a, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:27:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:29:09 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_1821b6060713a2ffa3a584ff1230907f, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:29:09 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:29:16 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_8b4f7add87054ee593cd3a8ed90fc0ff, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:29:16 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:32:57 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_2b5a90a6718158ad29de515f28dfb068, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:32:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:57:29 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_b74f459b8b1cda34c3bb2fa1c6c1b41a, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 12:57:29 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:01:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_bb553cacb11411346578bda7277dedb6, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:01:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:04:19 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_6650e8cb450e81a50184e33aa2bd1243, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:04:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:07:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_7b292171c7f88be39971c61066be2fe6, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:07:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:16:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_9af4b6e0d726aa28833e27bd3123dc81, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 13:16:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 13:16:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_98cc28c40acb93fcf862b85377213dbe, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:16:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:17:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_98cc28c40acb93fcf862b85377213dbe, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:17:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:03 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f067ec312315b4d57a139f490fbf7d4b, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:03 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:48 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_98cc28c40acb93fcf862b85377213dbe, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 13:18:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/contact-captcha.php on line 2
+[07-Jan-2025 13:18:48 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_98cc28c40acb93fcf862b85377213dbe, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:57 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_98cc28c40acb93fcf862b85377213dbe, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:18:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:19:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_a362af402057ac743c6831098b3a951a, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:19:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:20:17 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f6a33a32fa84d35ee6b079af63597811, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:20:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:21:27 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f6a33a32fa84d35ee6b079af63597811, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:21:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f6a33a32fa84d35ee6b079af63597811, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:23 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f6a33a32fa84d35ee6b079af63597811, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:40 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_f6a33a32fa84d35ee6b079af63597811, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[07-Jan-2025 13:22:40 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[12-Jan-2025 15:19:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[12-Jan-2025 15:19:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[17-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[17-Jan-2025 12:55:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:20 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:22 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:25 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:25 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[19-Jan-2025 06:59:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/anandaloke/public_html/backend/include/db-config.php on line 6
+[09-Feb-2025 12:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/anandaloke/public_html/footer.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/anandaloke/public_html/footer.php on line 186
+[13-Feb-2025 03:42:56 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_7891d1c50fae014c5974dd1460950e01, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[13-Feb-2025 03:42:56 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[13-Feb-2025 03:53:25 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php74/sess_b98129f061ce41265dd32dd79bde54ef, O_RDWR) failed: No space left on device (28) in /home/anandaloke/public_html/captcha/appoint-captcha.php on line 2
+[13-Feb-2025 03:53:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php74) in 

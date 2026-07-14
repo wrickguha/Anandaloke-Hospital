@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id oOCkDDUX92W1YwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 17 Mar 2024 21:45:49 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 17 Mar 2024 21:45:49 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rltAr-0006eb-0G
+	for anandaloke@server206.domainonair.com;
+	Sun, 17 Mar 2024 21:45:49 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rltAq-0006eO-1m@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710692149-eximdsn-808967780
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rltAr-0006eb-0G@server206.domainonair.com>
+Date: Sun, 17 Mar 2024 21:45:49 +0530
+
+--1710692149-eximdsn-808967780
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.114.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from aol.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of aol.com domain if
+    550-5.7.26 this was a legitimate mail. To learn about the DMARC initiative, go
+    550-5.7.26 to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection e15-20020a056808148f00b003c1ec0f3cafsi2195202oiw.134 - gsmtp
+
+--1710692149-eximdsn-808967780
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from aol.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of aol.com domain if
+ 550-5.7.26 this was a legitimate mail. To learn about the DMARC initiative, go
+ 550-5.7.26 to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection e15-20020a056808148f00b003c1ec0f3cafsi2195202oiw.134 - gsmtp
+
+--1710692149-eximdsn-808967780
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rltAq-0006eO-1m
+	for opd.anandaloke@gmail.com;
+	Sun, 17 Mar 2024 21:45:48 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 45.133.4.59
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: noreplyhere@aol.com
+Message-Id: <E1rltAq-0006eO-1m@server206.domainonair.com>
+Date: Sun, 17 Mar 2024 21:45:48 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Phil Stewart</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   342-123-4456</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   noreplyhere@aol.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   ??</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Interested in maximizing your reach? You're reading this message and I can get others to read your ad the exact same way! Drop me an email below to learn more about our services and start spreading your message effectively!
+
+Phil Stewart
+Email: yu98h8@gomail2.xyz
+Skype: live:.cid.2bc4ed65aa40fb3b</p>
+				</body>
+				</html>
+
+--1710692149-eximdsn-808967780--

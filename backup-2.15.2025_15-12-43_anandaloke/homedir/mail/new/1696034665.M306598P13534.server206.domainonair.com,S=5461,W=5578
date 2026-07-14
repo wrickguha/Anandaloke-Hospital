@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id wxvID2lvF2XeNAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sat, 30 Sep 2023 06:14:25 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sat, 30 Sep 2023 06:14:25 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1qmO5p-0003W0-0O
+	for anandaloke@server206.domainonair.com;
+	Sat, 30 Sep 2023 06:14:25 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1qmO5n-0003Ve-32@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696034665-eximdsn-182732621
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qmO5p-0003W0-0O@server206.domainonair.com>
+Date: Sat, 30 Sep 2023 06:14:25 +0530
+
+--1696034665-eximdsn-182732621
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.251.116.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. a26-20020a9d6e9a000000b006b744a6e521si4410785otr.257 - gsmtp
+
+--1696034665-eximdsn-182732621
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. a26-20020a9d6e9a000000b006b744a6e521si4410785otr.257 - gsmtp
+
+--1696034665-eximdsn-182732621
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1qmO5n-0003Ve-32
+	for opd.anandaloke@gmail.com;
+	Sat, 30 Sep 2023 06:14:24 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 135.181.170.174
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: motley.nathan@yahoo.com
+Message-Id: <E1qmO5n-0003Ve-32@server206.domainonair.com>
+Date: Sat, 30 Sep 2023 06:14:23 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Nathan Motley</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   0391 1617496</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   motley.nathan@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Get Google Review</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Get Google Reviews for your business reputation.
+
+It’s very important for your business.
+Because customers first time see your reviews and make a decision about your business.
+Reviews Go a Vital role for business & it can often be the crucial tiebreaker between equidistant businesses.
+
+
+ORDER HERE :- https://buytraffics.net/order/googlereviews.php
+
+
+Why Should You Buying Google Reviews? Customer reviews from Google matter. Grow your business with Website and outrank your competitors.
+Customers have more trust in other customers than in Businesses increase your business sales.
+
+We provide :-
+✔ 100% Satisfaction Guaranteed
+✔ Manual 
+✔ Express Delivery
+✔ High Quality
+✔ No need any admin access or password
+✔ 24/7 Customer Support
+✔ Unlimited split available
+
+ORDER HERE :- https://buytraffics.net/order/googlereviews.php
+
+Thanks
+Buy Traffics</p>
+				</body>
+				</html>
+
+--1696034665-eximdsn-182732621--

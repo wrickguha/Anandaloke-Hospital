@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id oEj/F67PT2XzKAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 12 Nov 2023 00:32:06 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 12 Nov 2023 00:32:06 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1r1tF7-0002ih-2G
+	for anandaloke@server206.domainonair.com;
+	Sun, 12 Nov 2023 00:32:05 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1r1tF6-0002iD-1Y@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699729325-eximdsn-1661175587
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r1tF7-0002ih-2G@server206.domainonair.com>
+Date: Sun, 12 Nov 2023 00:32:05 +0530
+
+--1699729325-eximdsn-1661175587
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.138.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. bb6-20020a056808168600b003b2a9fc7c26si787551oib.50 - gsmtp
+
+--1699729325-eximdsn-1661175587
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. bb6-20020a056808168600b003b2a9fc7c26si787551oib.50 - gsmtp
+
+--1699729325-eximdsn-1661175587
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1r1tF6-0002iD-1Y
+	for opd.anandaloke@gmail.com;
+	Sun, 12 Nov 2023 00:32:04 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 196.244.4.29
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: judy.driggers@yahoo.com
+Message-Id: <E1r1tF6-0002iD-1Y@server206.domainonair.com>
+Date: Sun, 12 Nov 2023 00:32:04 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Judy Driggers</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   88 494 53 68</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   judy.driggers@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Capture Possibilities with Our Revolutionary Tool!</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hello anandaloke.com Administrator.
+
+I'm Judy and I’m guessing you would like your webpage anandaloke.com to generate additional leads.
+
+Here’s how:
+Web Visitors Into Leads is a software widget that’s functions on your site, ready to capture any visitor’s Name, Email address, and Phone Number. It alerts you as soon as they state they’re engaged – so that you can converse with that lead while they’re still present at anandaloke.com.
+
+Visitor to Lead Widget – CLICK HERE https://turboleadgeneration.com for a live demo at this moment.
+
+And now you’ve got their phone number, our new SMS Text With Lead feature allows you to initiate a text (SMS) conversation – answer questions, offer more info, and close a deal that way.
+
+If they don’t take you up on your proposal then, just follow-up with text messages for new proposals, content links, even just how you doing? notes to build a connection.
+
+CLICK HERE https://turboleadgeneration.com to discover what Visitor to Lead Widget can do for your enterprise.
+
+The variance between reaching out to someone within 5 minutes compared to a half-hour means you could be converting up to 100X more leads now!
+
+Test Web Visitors Into Leads and get more leads immediately.
+
+Judy
+PS: The studies show 7 out of 10 viewers do not stick around – you cannot afford to miss them!
+Visitor to Lead Widget offers a FREE 14 days trial – and it even includes International Long Distance Calling.
+You have clients eager to chat with you immediately… don’t keep them waiting.
+CLICK HERE https://turboleadgeneration.com to use Web Visitors Into Leads now.
+
+If you'd prefer to unsubscribe click here https://turboleadgeneration.com/unsubscribe.aspx?d=anandaloke.com
+
+Just a quick remark - the names and email utilized here, Judy and Driggers, are substitutes and not actually genuine contact details. We cherish honesty and desired to make sure you’re aware of this! In case you aspire to get in touch with the genuine individual behind this communication, please visit our website, and we’ll connect you with the proper entity.
+</p>
+				</body>
+				</html>
+
+--1699729325-eximdsn-1661175587--

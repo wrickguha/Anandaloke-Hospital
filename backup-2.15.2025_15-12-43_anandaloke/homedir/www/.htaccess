@@ -1,0 +1,91 @@
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Disable Directory Listings in this Directory and Subdirectories
+# This will hide the files from the public unless they know direct URLs
+Options -Indexes
+
+####EXTENSION REMOVAL
+Options +MultiViews
+RewriteEngine On
+
+RewriteRule ^(backend)($|/) - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} shop/$
+
+# check to see if the request is for a PHP file:
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^/?(.*)$ /$1.php [L]
+
+RewriteRule ^(.*)/$ $1
+RewriteRule ^([^\.]+)$ $1.php [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+RewriteEngine on
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+####EXTENSION REMOVAL
+
+#RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^tour-package/([^/]*)\.php view-package.php?tour=$1 [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /404.php [L]
+
+#Force www: change to ur domain
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^anandaloke.com [NC]
+RewriteRule ^(.*)$ http://www.anandaloke.com/$1 [L,R=301,NC]
+
+#hide index.php
+RewriteEngine On
+RewriteCond %{THE_REQUEST} ^.*/index\.php
+RewriteRule ^(.*)index.php$ /$1 [R=301,L] 
+
+#prevent downloading site
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} ^FlashGet.* [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GetRight.* [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*HTTrack.*$ [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*MemoWeb.*$ [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*FileHound.*$
+RewriteRule /* https://www.anandaloke.com/do-not-steal.html [R,L]
+
+AddType image/svg+xml svg svgz
+
+#USING GZIP COMPRESSION
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE image/svg+xml
+#USING GZIP COMPRESSION
+
+<FilesMatch "\.(jpg|jpeg|png|gif|swf|css|js|html|php|svg)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+
+<ifmodule mod_expires.c>
+<Filesmatch "\.(jpg|jpeg|png|gif|js|css|swf|ico|woff|mp3)$">
+    ExpiresActive on
+    ExpiresDefault "access plus 7 days"
+</Filesmatch>
+</ifmodule>
+
+<ifModule mod_headers.c>
+    Header set Connection keep-alive
+</ifModule>

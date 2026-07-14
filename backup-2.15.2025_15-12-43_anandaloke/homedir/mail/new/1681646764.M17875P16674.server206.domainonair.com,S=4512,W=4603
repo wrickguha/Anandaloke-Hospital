@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id VDVZAKzkO2QiQQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 16 Apr 2023 17:36:04 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 16 Apr 2023 17:36:04 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1po18t-0004Kl-2h
+	for anandaloke@server206.domainonair.com;
+	Sun, 16 Apr 2023 17:36:03 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1po18t-0004Kc-2A@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1681646763-eximdsn-60107232
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1po18t-0004Kl-2h@server206.domainonair.com>
+Date: Sun, 16 Apr 2023 17:36:03 +0530
+
+--1681646763-eximdsn-60107232
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1681646763-eximdsn-60107232
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1681646763-eximdsn-60107232
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1po18t-0004Kc-2A
+	for info@anandaloke.com;
+	Sun, 16 Apr 2023 17:36:03 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 198.46.209.70
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1po18t-0004Kc-2A@server206.domainonair.com>
+Date: Sun, 16 Apr 2023 17:36:03 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Doretha Byard</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   04.87.62.69.90</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   doretha.byard@msn.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Say Goodbye to Back Pain with Our Premium Seat Cushion</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Dear Mr/Ms,
+
+Are you tired of feeling uncomfortable and experiencing back pain while sitting for extended periods of time? Look no further than our premium seat cushion!
+
+Made with high-quality memory foam, our seat cushion conforms to your body shape, providing ultimate support to your back, hips, and thighs. The breathable mesh cover keeps you cool, while the non-slip bottom keeps the cushion securely in place. It's lightweight and portable, making it perfect for use at home, in the office, or even while travelling.
+
+Say goodbye to discomfort and back pain with our seat cushion. Order now and experience the difference it can make in your daily life.
+
+Order now at Seat-Cushion.net and take advantage of our limited-time offer of 10% off for new customers. Use the code "COMFORT10" at checkout.
+
+Kind regards,
+Seat-Cushion.net Team</p>
+				</body>
+				</html>
+
+--1681646763-eximdsn-60107232--

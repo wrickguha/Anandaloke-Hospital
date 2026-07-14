@@ -1,0 +1,126 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id qEP+FZGAV2f7RQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 10 Dec 2024 05:13:13 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 10 Dec 2024 05:13:13 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1tKnPF-0004sz-0n
+	for anandaloke@server206.domainonair.com;
+	Tue, 10 Dec 2024 05:13:13 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1tKnPE-0004st-2R@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733787793-eximdsn-2130104573
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tKnPF-0004sz-0n@server206.domainonair.com>
+Date: Tue, 10 Dec 2024 05:13:13 +0530
+
+--1733787793-eximdsn-2130104573
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [173.194.199.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3eb39389df4si2925105b6e.153 - gsmtp
+
+--1733787793-eximdsn-2130104573
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3eb39389df4si2925105b6e.153 - gsmtp
+
+--1733787793-eximdsn-2130104573
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1tKnPE-0004st-2R
+	for opd.anandaloke@gmail.com;
+	Tue, 10 Dec 2024 05:13:12 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 5.252.162.219
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: buckingham.aurora@yahoo.com
+Message-Id: <E1tKnPE-0004st-2R@server206.domainonair.com>
+Date: Tue, 10 Dec 2024 05:13:12 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Aurora Buckingham</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   6135888891</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   buckingham.aurora@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   36</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   Cardiology</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. Manish Madhav, MS, MCh</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   Jv fklfnvw</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   Salutations to Anandaloke Owner,
+
+My name is Aurora, I found Anandaloke following performing a concise exploration – your site appeared at the peak of the search results, so all that you’re working on for SEO appears like it’s functioning well.
+
+So here is my question – what exactly transpires AFTER a visitor arrives on your site? Something?
+
+Research indicates at least 70 percent of the visitors who discover your site, following a cursory review, they leave… forever.
+
+This means that all the energy and endeavor you invested into getting them to appear slips down the tubes.
+
+Why exactly would you want all of that good investment – and the remarkable platform you’ve created – go to waste?
+
+Since the probabilities are they’ll just avoid calling or even using their phone, leaving you in the lurch.
+
+However, here’s a thought… what if you could make things very easy for a visitor to express interest, okay, let’s discuss without needing them to even take out their mobile phone from their bag, thanks to innovative new software that can make that initial call happen NOW.
+
+Web Visitors Into Leads is a software widget that sits on your page, ready and waiting to collect any visitor’s Name, Email, and Contact Number. It lets you know  instantly – so that you can talk to that lead while they’re still there, strike when the moment is right!
+
+Visit https://advanceleadgeneration.com to test a Live Demo with Web Visitors Into Leads to understand precisely how it works. When targeting leads, you need to act quickly – the gap in contacting someone within 5 minutes versus 30 minutes later is significant – like 100 times better!
+
+Therefore you should explore our new SMS Text With Lead feature… after you've captured the phone number of the site user, you can seamlessly kick off a chat with them.
+
+Imagine how powerful this could be – even if they don’t take you up on your proposal, you can stay in contact with them using text communications to present additional offers, or provide access to useful content, and build your credibility. This alone could significantly improve your website's results – act when the iron’s hot!
+
+Go to https://advanceleadgeneration.com to find out more about everything Web Visitors Into Leads can offer your business – you’ll be amazed, and continue the fantastic work!
+
+Aurora Buckingham
+PS: Web Visitors Into Leads provides a 14-day trial – you might be converting up to 100x more leads quickly! Visit https://advanceleadgeneration.com to explore Web Visitors Into Leads.
+
+Now, if you'd prefer to opt-out here https://advanceleadgeneration.com/unsubscribe.aspx?d=anandaloke.com
+</p>
+				</body>
+				</html>
+
+--1733787793-eximdsn-2130104573--

@@ -1,0 +1,25 @@
+.chromestyle{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:13px; text-transform:uppercase; width:982px; height:29px; float:left; border:1px #7dc9e9 solid;}
+.chromestyle:after{content:"."; display:block; clear:both; visibility:hidden;}
+.chromestyle ul{background:url(../images/nav_bg.jpg) repeat-x; padding:0px 15px 0px 0; margin:0; text-align:left; line-height:29px;}
+.chromestyle ul li{display:inline;}
+.chromestyle ul li a{color:#000000; height:29px; padding:7px 10px 5px 9px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; margin:0; text-decoration:none; background:url(../images/nav_line.jpg) right no-repeat; font-size:12px;}
+.chromestyle ul li a:hover, .chromestyle ul li a.active{ color:#f6821f;}
+
+/* Style for Drop Down Menu  */
+
+.dropmenudiv{
+position:absolute;
+top:0;
+border:1px solid #7dc9e9; /*THEME CHANGE HERE*/
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+text-transform:uppercase;
+font-size:12px;
+line-height:22px;
+z-index:120;
+background-color:#a6e0f8;
+width:230px;
+visibility:hidden;
+}
+.dropmenudiv a{width:auto; display:block; text-indent:3px; border-bottom:1px solid #7dc9e9; padding:3px 0; text-decoration:none; color:#000000; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+* html .dropmenudiv a{ width:70%;}
+.dropmenudiv a:hover{background-color:#7dc9e9; color:#f6821f; text-decoration:none;}

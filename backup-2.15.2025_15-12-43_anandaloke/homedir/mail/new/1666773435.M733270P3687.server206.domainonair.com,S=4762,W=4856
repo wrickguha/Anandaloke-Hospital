@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id RIyWK7vxWGNnDgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Wed, 26 Oct 2022 14:07:15 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Wed, 26 Oct 2022 14:07:15 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1onbuV-0000xH-Gn
+	for anandaloke@server206.domainonair.com;
+	Wed, 26 Oct 2022 14:07:15 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1onbuV-0000x8-BT@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1666773435-eximdsn-1605433455
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1onbuV-0000xH-Gn@server206.domainonair.com>
+Date: Wed, 26 Oct 2022 14:07:15 +0530
+
+--1666773435-eximdsn-1605433455
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1666773435-eximdsn-1605433455
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1666773435-eximdsn-1605433455
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1onbuV-0000x8-BT
+	for sonoscan@anandaloke.com;
+	Wed, 26 Oct 2022 14:07:15 +0530
+To: sonoscan@anandaloke.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 192.99.110.147
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1onbuV-0000x8-BT@server206.domainonair.com>
+Date: Wed, 26 Oct 2022 14:07:15 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Joni</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   0481 28 21 99</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   k.kehrer@agv-stockstadt.de</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Ms. Shreeparna Chaterjee (M.Sc, Food & Nutrition)</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   World's Best Neck Massager Get it Now 50% OFF + Free Shipping!
+
+Wellness Enthusiasts! There has never been a better time to take care of your neck pain! 
+Our clinical-grade TENS technology will ensure you have neck relief in as little as 20 minutes.
+
+Get Yours: https://hineck.shop
+
+Kind Regards,
+
+Joni
+Anandaloke Hospital, Hospital in siliguri, Hospitals in siliguri, Hospital in Darjeeling, Nursing home in siliguri</p>
+				</body>
+				</html>
+
+--1666773435-eximdsn-1605433455--

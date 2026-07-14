@@ -1,0 +1,31 @@
+Your website is immediately accessible through this Temporary URL: http://anandaloke.com.cp-43.webhostbox.net
+
+www.anandaloke.com/cpanel
+
+IP Address: 209.99.16.245
+Username: anandng4
+Password: cV0?s6%u@*8k 
+
+Name Server 1: ns1.cp-43.webhostbox.net
+Name Server 2: ns2.cp-43.webhostbox.net
+
+
+
+
+--------------------------------------------------------------------
+Godaddy Hosting
+
+user : anandaloke
+
+Pass : Hospital2014
+
+DNS : ns77.domaincontrol.com
+DNS : ns78.domaincontrol.com
+
+FTP
+host : ftp.anandaloke.com
+
+User : anandaloke
+Pass : Hospital2014
+
+Dedicated IP Address : 192.186.200.162

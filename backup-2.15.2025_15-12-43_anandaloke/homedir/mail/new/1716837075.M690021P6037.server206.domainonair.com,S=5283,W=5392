@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id WavaJtPaVGaVFwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 28 May 2024 00:41:15 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 28 May 2024 00:41:15 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1sBfkZ-0001ZA-1i
+	for anandaloke@server206.domainonair.com;
+	Tue, 28 May 2024 00:41:15 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1sBfkY-0001Yr-1M@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1716837075-eximdsn-1042086786
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sBfkZ-0001ZA-1i@server206.domainonair.com>
+Date: Tue, 28 May 2024 00:41:15 +0530
+
+--1716837075-eximdsn-1042086786
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.114.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3d1b366b8cbsi2630141b6e.53 - gsmtp
+
+--1716837075-eximdsn-1042086786
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3d1b366b8cbsi2630141b6e.53 - gsmtp
+
+--1716837075-eximdsn-1042086786
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1sBfkY-0001Yr-1M
+	for opd.anandaloke@gmail.com;
+	Tue, 28 May 2024 00:41:14 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 181.214.218.143
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: zachary.vick@yahoo.com
+Message-Id: <E1sBfkY-0001Yr-1M@server206.domainonair.com>
+Date: Tue, 28 May 2024 00:41:14 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Zachary Vick</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   51377365</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   zachary.vick@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   re: collaboration request</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi there,
+
+My name is Zachary from Monkey Digital, 
+
+Allow me to present to you a lifetime revenue opportunity of 35%
+That's right, you can earn 35% of every order made by your affiliate for life.
+
+Simply register with us, generate your affiliate links, and incorporate them on your website, and you are done. It takes only 5 minutes to set up everything, and the payouts are sent each month.
+
+Click here to enroll with us today:
+https://www.monkeydigital.org/affiliate-dashboard/
+
+Think about it, 
+Every website owner requires the use of search engine optimization (SEO) for their website. This endeavor holds significant potential for both parties involved.
+
+Thanks and regards
+Zachary Vick
+Monkey Digital</p>
+				</body>
+				</html>
+
+--1716837075-eximdsn-1042086786--

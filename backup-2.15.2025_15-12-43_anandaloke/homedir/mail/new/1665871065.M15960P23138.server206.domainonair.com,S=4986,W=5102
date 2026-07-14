@@ -1,0 +1,116 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id HGPVANksS2NiWgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 16 Oct 2022 03:27:45 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 16 Oct 2022 03:27:45 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1ojpA8-00060s-9t
+	for anandaloke@server206.domainonair.com;
+	Sun, 16 Oct 2022 03:27:44 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1ojpA6-00060X-Bg@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1665871064-eximdsn-271026673
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ojpA8-00060s-9t@server206.domainonair.com>
+Date: Sun, 16 Oct 2022 03:27:44 +0530
+
+--1665871064-eximdsn-271026673
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1665871064-eximdsn-271026673
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1665871064-eximdsn-271026673
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1ojpA6-00060X-Bg
+	for sonoscan@anandaloke.com;
+	Sun, 16 Oct 2022 03:27:43 +0530
+To: sonoscan@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 94.103.191.45
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1ojpA6-00060X-Bg@server206.domainonair.com>
+Date: Sun, 16 Oct 2022 03:27:42 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Ranker SEO</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   078 2761 1580</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   kinsela.jeannine@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Rank 1 on Google With Ranker SEO</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hello, 
+
+Greetings from Ranker SEO.
+
+Want to know the secret to ranking high on Google?
+
+Why SEO Backlinks?
+
+The answer is to give authority to your website.
+
+How? Creating useful SEO backlinks!
+
+With over 1,000+ completed orders in SEO services, we know how to build high-quality backlinks that can help to improve your website's ranking with safe and efficient off-page link building techniques.
+
+
+What will you get?
+
+1. Contextual Backlinks: We'll create contextual backlinks with some related content about your niche.
+
+2. Natural and Mixed Methods: 100% dofollow, but nofollow may be included if such links are desired.
+
+3. Efficient Strategy: As you know, not all links are the same. You'll receive unique, safe, and efficient SEO backlinks.
+
+4. Safe Anchor Text: In addition to your target keywords, I'll use diversified anchor text such as URLs and generic keywords.
+
+5. High Quality Backlinks: The posts will be placed on blogs with high metrics.
+
+For real proof, you can visit our website and check it out. Contact us for more details.
+
+Our Skype ID is: support@ranker.one Our website address is: https://www.ranker.one.
+
+
+Thank you and best wishes.
+Ranker SEO
+
+If you don't wish to receive our messages, you can unsubscribe by clicking here: https://www.ranker.one/unsubscribe/?site=anandaloke.com
+</p>
+				</body>
+				</html>
+
+--1665871064-eximdsn-271026673--

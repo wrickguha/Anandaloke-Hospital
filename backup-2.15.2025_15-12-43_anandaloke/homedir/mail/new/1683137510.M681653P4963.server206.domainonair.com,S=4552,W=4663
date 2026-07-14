@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id OEqHKOajUmRjEwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Wed, 03 May 2023 23:41:50 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Wed, 03 May 2023 23:41:50 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1puGxC-0001RC-1S
+	for anandaloke@server206.domainonair.com;
+	Wed, 03 May 2023 23:41:50 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1puGxC-0001R3-0s@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1683137510-eximdsn-1201488554
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1puGxC-0001RC-1S@server206.domainonair.com>
+Date: Wed, 03 May 2023 23:41:50 +0530
+
+--1683137510-eximdsn-1201488554
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1683137510-eximdsn-1201488554
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1683137510-eximdsn-1201488554
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1puGxC-0001R3-0s
+	for sonoscan@anandaloke.com;
+	Wed, 03 May 2023 23:41:50 +0530
+To: sonoscan@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 172.241.152.242
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1puGxC-0001R3-0s@server206.domainonair.com>
+Date: Wed, 03 May 2023 23:41:50 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Rose Smith</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   06-43563704</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   postaii@postai.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   The ultimate tool that creates posts, ads, blogs, and any content you will need for your business in seconds</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi Business Leader,
+
+
+Struggling to stay ahead of the competition and generate content that converts? Looking for a time- or cost-effective solution?
+
+Say hello to Jasper AI - the AI-powered text-to-Content. Create professional and Creative posts, tweets, blogs, and much more with a few clicks! You can create blogs, webinars, transcripts, and books like a pro.
+
+No more paying marketing agencies thousands of dollars. For less than $25, you will be able to bring your ideas to life with Jasper's AI technology and attract more likes, shares, and engagements today.
+
+You only need to provide the initial idea, and Jasper AI will take care of the rest.
+
+CHECK IT OUT NOW and even get 10K AI words for FREE: www.postai.click
+
+
+
+I am sure you will find it helpfu :) 
+
+
+Best, 
+
+Rose Smith
+
+Post AI
+
+
+
+
+
+
+
+
+</p>
+				</body>
+				</html>
+
+--1683137510-eximdsn-1201488554--

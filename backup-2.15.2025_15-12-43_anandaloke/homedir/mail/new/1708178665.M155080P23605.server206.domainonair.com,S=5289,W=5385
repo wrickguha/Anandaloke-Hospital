@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id Mx4cCem80GU1XAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sat, 17 Feb 2024 19:34:25 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sat, 17 Feb 2024 19:34:25 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rbLIn-00068d-03
+	for anandaloke@server206.domainonair.com;
+	Sat, 17 Feb 2024 19:34:25 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rbLIm-00068W-1v@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1708178665-eximdsn-1960718241
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rbLIn-00068d-03@server206.domainonair.com>
+Date: Sat, 17 Feb 2024 19:34:25 +0530
+
+--1708178665-eximdsn-1960718241
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.251.116.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from cipla.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of cipla.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection e6-20020a056870d10600b0021e7fba1969si720369oac.29 - gsmtp
+
+--1708178665-eximdsn-1960718241
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from cipla.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of cipla.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection e6-20020a056870d10600b0021e7fba1969si720369oac.29 - gsmtp
+
+--1708178665-eximdsn-1960718241
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rbLIm-00068W-1v
+	for opd.anandaloke@gmail.com;
+	Sat, 17 Feb 2024 19:34:24 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 223.239.60.98
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: anindya.maity@cipla.com
+Message-Id: <E1rbLIm-00068W-1v@server206.domainonair.com>
+Date: Sat, 17 Feb 2024 19:34:24 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Anindya Kumar Maity </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   9800899871</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   anindya.maity@cipla.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   44</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   Orthopaedic</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. A. K. Sasmal, MS</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   18/02/2024</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   Knee joint pain</p>
+				</body>
+				</html>
+
+--1708178665-eximdsn-1960718241--

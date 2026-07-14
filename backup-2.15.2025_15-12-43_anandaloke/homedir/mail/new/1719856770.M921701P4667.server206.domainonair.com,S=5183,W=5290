@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id uBK4MYLugmY7EgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Mon, 01 Jul 2024 23:29:30 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Mon, 01 Jul 2024 23:29:30 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1sOLJK-0001TH-22
+	for anandaloke@server206.domainonair.com;
+	Mon, 01 Jul 2024 23:29:30 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1sOLJJ-0001T8-36@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719856770-eximdsn-1398449449
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sOLJK-0001TH-22@server206.domainonair.com>
+Date: Mon, 01 Jul 2024 23:29:30 +0530
+
+--1719856770-eximdsn-1398449449
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.114.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 46e09a7af769-701f7b22c3csi3300482a34.139 - gsmtp
+
+--1719856770-eximdsn-1398449449
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 46e09a7af769-701f7b22c3csi3300482a34.139 - gsmtp
+
+--1719856770-eximdsn-1398449449
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1sOLJJ-0001T8-36
+	for opd.anandaloke@gmail.com;
+	Mon, 01 Jul 2024 23:29:30 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 168.228.45.98
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: dean.rayburn@yahoo.com
+Message-Id: <E1sOLJJ-0001T8-36@server206.domainonair.com>
+Date: Mon, 01 Jul 2024 23:29:29 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Dean Rayburn</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   643-621-7731</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   dean.rayburn@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Noticed something concerning about anandaloke.com - should i be worried</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Howdy!
+
+It has been quite some time, but I recently stumbled upon a slam piece online about anandaloke.com and thought it important to reach out to confirm this article. 
+
+It looks like there's some negative press that could be harmful to your reputation. 
+Being aware of how easily stories can get out of hand and hoping not you to be caught off guard, I thought it best to inform you.
+
+Here's where I came across the info:
+
+https://ibit.ly/ZeOVE		
+
+I hope it's all a misunderstanding, but I believed it necessary you should know!
+
+All the best to you,
+Dean
+</p>
+				</body>
+				</html>
+
+--1719856770-eximdsn-1398449449--

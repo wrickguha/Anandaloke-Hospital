@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id cFzfDWofkmeaBwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Thu, 23 Jan 2025 16:22:26 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Thu, 23 Jan 2025 16:22:26 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1taup0-0000XB-0N
+	for anandaloke@server206.domainonair.com;
+	Thu, 23 Jan 2025 16:22:26 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1tauox-0000X2-2t@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737629546-eximdsn-570926580
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1taup0-0000XB-0N@server206.domainonair.com>
+Date: Thu, 23 Jan 2025 16:22:26 +0530
+
+--1737629546-eximdsn-570926580
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.251.116.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3f19dbae8dasi13806235b6e.214 - gsmtp
+
+--1737629546-eximdsn-570926580
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection 5614622812f47-3f19dbae8dasi13806235b6e.214 - gsmtp
+
+--1737629546-eximdsn-570926580
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1tauox-0000X2-2t
+	for opd.anandaloke@gmail.com;
+	Thu, 23 Jan 2025 16:22:25 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 147.235.209.18
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: macfarlan.leta20@yahoo.com
+Message-Id: <E1tauox-0000X2-2t@server206.domainonair.com>
+Date: Thu, 23 Jan 2025 16:22:23 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Leta Macfarlan</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   690850060</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   macfarlan.leta20@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Monetize Your Website Effortlessly â€“ Earn from Traffic Alone</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Are you ready to earn money from your website with minimal effort? í ½í²° With ForeMedia.net, you can start making revenue from ad impressions aloneâ€”clicks are just a bonus!
+
+Hereâ€™s why website owners love us:
+âœ… Instant approval for new publishers
+âœ… Earnings from traffic, not just clicks
+âœ… Hassle-free setup in minutes
+
+í ½í±‰ Register Now Her: https://foremedia.pro/CU4W6 and start monetizing your traffic today!
+
+Best,
+The ForeMedia Team</p>
+				</body>
+				</html>
+
+--1737629546-eximdsn-570926580--

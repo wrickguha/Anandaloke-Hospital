@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id I3O0F1FbtGNGMwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 03 Jan 2023 22:14:01 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 03 Jan 2023 22:14:01 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pCkOP-0003PZ-6N
+	for anandaloke@server206.domainonair.com;
+	Tue, 03 Jan 2023 22:14:01 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pCkOO-0003PE-VT@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1672764241-eximdsn-263444409
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pCkOP-0003PZ-6N@server206.domainonair.com>
+Date: Tue, 03 Jan 2023 22:14:01 +0530
+
+--1672764241-eximdsn-263444409
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1672764241-eximdsn-263444409
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1672764241-eximdsn-263444409
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pCkOO-0003PE-VT
+	for sonoscan@anandaloke.com;
+	Tue, 03 Jan 2023 22:14:01 +0530
+To: sonoscan@anandaloke.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 156.146.51.131
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pCkOO-0003PE-VT@server206.domainonair.com>
+Date: Tue, 03 Jan 2023 22:14:00 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Avis</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   (02) 4975 9654</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   avis@anandaloke.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. (Maj) Ranjan Paul Chowdhury, MS</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   Morning 
+ 
+Is your dog's nails getting too long? If you're tired of going to the vet or groomer to get them trimmed, why not try PawSafer™? 
+With PawSafer™, you can trim your dog's nails from the comfort of your own home, and it only takes a few minutes!
+
+PawSafer™ is the safest and most convenient way to trim your dog's nails, and it's very affordable. 
+
+Get it while it's still 50% OFF + FREE Shipping
+
+Buy here: https://pawsafer.sale
+ 
+Sincerely, 
+ 
+Avis</p>
+				</body>
+				</html>
+
+--1672764241-eximdsn-263444409--

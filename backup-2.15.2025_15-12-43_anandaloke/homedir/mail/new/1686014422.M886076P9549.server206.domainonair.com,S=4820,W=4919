@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id gsByM9aJfmRNJQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Tue, 06 Jun 2023 06:50:22 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Tue, 06 Jun 2023 06:50:22 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1q6LN0-0002Tn-2K
+	for anandaloke@server206.domainonair.com;
+	Tue, 06 Jun 2023 06:50:22 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1q6LN0-0002Th-1r@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1686014422-eximdsn-2023983481
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1q6LN0-0002Tn-2K@server206.domainonair.com>
+Date: Tue, 06 Jun 2023 06:50:22 +0530
+
+--1686014422-eximdsn-2023983481
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1686014422-eximdsn-2023983481
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1686014422-eximdsn-2023983481
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1q6LN0-0002Th-1r
+	for info@anandaloke.com;
+	Tue, 06 Jun 2023 06:50:22 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 172.241.153.129
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: morshead.horace@gmail.com
+Message-Id: <E1q6LN0-0002Th-1r@server206.domainonair.com>
+Date: Tue, 06 Jun 2023 06:50:22 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Jenna Frank</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   02.33.60.84.63</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   morshead.horace@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Dear anandaloke.com Administrator.</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi Chief, 
+Have you ever wished your product could come to life in a way that your customers could better understand and engage with?
+Cinematic and 3D rendering storytelling make this a reality!
+
+Here at TGT Visual Media, we specialize in creating high-end visuals that bring your products to life and demonstrate their benefits in a way that is both eye-catching and persuasive.
+With our cutting-edge technology, we can help you create cinematic stories, realistic product renders, stunning cinematic animations, and engaging visual presentations that will blow away your competition.
+
+Check out our website www.postai.click
+
+The Genie Team Visual Media is a team of product specialists with vast techno-operational experience, artists, and designers who specialize in creating cinematic and 3D rendering storytelling, full product branding, and visual presentation design.
+
+Ready to level up your marketing strategy?
+Stop relying on flat images or text alone and let us help you unlock the potential of your brand with compelling visuals - visit our website a get a free sample www.postai.click
+
+
+looking Forward Hearing from you 
+
+Jenna Frank
+
+TGT Visual Media</p>
+				</body>
+				</html>
+
+--1686014422-eximdsn-2023983481--

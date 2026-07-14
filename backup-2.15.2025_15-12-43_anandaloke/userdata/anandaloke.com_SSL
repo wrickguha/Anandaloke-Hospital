@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/anandaloke/public_html
+group: anandaloke
+hascgi: 1
+homedir: /home/anandaloke
+ip: 216.245.220.158
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@anandaloke.com
+serveralias: mail.anandaloke.com www.anandaloke.com
+servername: anandaloke.com
+ssl: 1
+usecanonicalname: 'Off'
+user: anandaloke
+userdirprotect: ''

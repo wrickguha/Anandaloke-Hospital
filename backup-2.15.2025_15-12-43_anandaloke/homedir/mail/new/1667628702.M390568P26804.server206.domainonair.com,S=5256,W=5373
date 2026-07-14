@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id mDcyF57+ZWO0aAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sat, 05 Nov 2022 11:41:42 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sat, 05 Nov 2022 11:41:42 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1orCP8-00079N-6c
+	for anandaloke@server206.domainonair.com;
+	Sat, 05 Nov 2022 11:41:42 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1orCP8-00079F-1a@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667628702-eximdsn-1530915830
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1orCP8-00079N-6c@server206.domainonair.com>
+Date: Sat, 05 Nov 2022 11:41:42 +0530
+
+--1667628702-eximdsn-1530915830
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1667628702-eximdsn-1530915830
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1667628702-eximdsn-1530915830
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1orCP8-00079F-1a
+	for info@anandaloke.com;
+	Sat, 05 Nov 2022 11:41:42 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 103.89.170.105
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1orCP8-00079F-1a@server206.domainonair.com>
+Date: Sat, 05 Nov 2022 11:41:42 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   sushobhon saha</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   8759489187</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   sushobhoniisindia@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   We can help you to grow your dealership network.. increase sales and generate new leads & brand building.</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   
+WE CAN HELP YOU BUILD A WEBSITE TO GENERATE MORE CLIENT more dealership network.. increase sales and generate new leads & brand building.
+WE PROVIDE 360 DEGREE ONLINE MARKETING CUSTOMISED SOLUTIONS from last 12 year's.
+we are work with more then 225 National & International client"s. 
+I am trying to get in touch with you for all types of web portals.
+We Are A Digital Marketing Company. Provides Our Service Worldwide.
+We Have Extensive Experience Creating Effective Marketing And Advertising Strategies In The All Business Fields. We Provide Detailed Solution For Any Business.
+
+
+
+Our Services
+
+Website Design & Development (specialized in E-commerce sites)
+Search Engine Optimization
+Social Media Marketing 
+Video Production
+Graphic design
+Mobile Application Design & Development
+please revert if you need any of these services.
+
+The most common benefits of digital marketing include:
+
+Creating a user-friendly, professional-looking website
+Publishing engaging content on your website and blog
+Increasing your social media following and engagement
+Attracting more customers with paid ads
+Increasing your rankings in search engines like Google or Bing
+Attracting more foot traffic and customers from local search
+Improving your online conversion rate and return on your marketing investment
+Improving your brand’s authority and visibility through PR
+Driving high-authority, SEO-boosting backlinks to your website
+
+Regards
+Sushobhon Saha
+Call or Whats app-
++91 8759489187
++91 9641289557
+sushobhoniisindia@gmail.com</p>
+				</body>
+				</html>
+
+--1667628702-eximdsn-1530915830--

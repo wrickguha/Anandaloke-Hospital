@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id gdQoElJ/ZGQFbwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Wed, 17 May 2023 12:46:34 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Wed, 17 May 2023 12:46:34 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1pzBOk-0007OF-0N
+	for anandaloke@server206.domainonair.com;
+	Wed, 17 May 2023 12:46:34 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pzBOj-0007O7-34@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1684307794-eximdsn-697152685
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pzBOk-0007OF-0N@server206.domainonair.com>
+Date: Wed, 17 May 2023 12:46:34 +0530
+
+--1684307794-eximdsn-697152685
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1684307794-eximdsn-697152685
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1684307794-eximdsn-697152685
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pzBOj-0007O7-34
+	for info@anandaloke.com;
+	Wed, 17 May 2023 12:46:34 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 136.0.95.33
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: littleton.tegan@gmail.com
+Message-Id: <E1pzBOj-0007O7-34@server206.domainonair.com>
+Date: Wed, 17 May 2023 12:46:33 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Tegan Littleton</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   Lryxtx</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   littleton.tegan@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   ������ Launch Your Very Own AI App Just Like ChatGPT (And Charge People For It)</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hey there,
+
+What if instead of wasting your time on ChatGPT...
+
+You could launch your Own app like ChatGPT and charge people for it?
+
+Here’s your chance to do the same:
+
+Click here to create your own version of ChatGPT and begin charging people for access.
+===>> https://bit.ly/chtbees
+
+You see, people are frustrated when ChatGPT faces outages..
+
+And this has opened up a massive opportunity for internet marketers..
+
+There’s a new app called Chat Bees, and it lets you create a ChatGPT like app, but with ZERO outages.
+
+People are willing to pay handsomely for zero outages.
+
+So, you can either create your Chat GPT-like app and se1l it to other businesses and make m0ney from it…
+
+OR, you can start your content creation agency.
+
+It Has All The Same Powerful Features Of ChatGPT, And Even More:
+
+✅ Write engaging, high quality content for blogs, scripts, emails, newsletters, ebooks literally anything
+✅ 100% unique content with no plagiarism 
+✅ Generate the best AI designs that put 99% of graphic designers to shame, in just seconds
+✅ It can proofread and edit your contents
+✅ It can fix grammar and other errors
+✅ Translate your writing to multiple languages and pr0fit
+✅ It can provide a transcription of your audio and video files in seconds
+✅ Boost your team’s performance by tracking their progress and assigning tasks 
+✅ Supports different Open AI models.
+
+And much more…
+
+And you can offer this service to people, and easily rake in 5-10k per month..
+
+
+Best Regards,
+
+Souryal T.
+93, S.N Road.
+WB 700055
+INDIA
+=====
+Click here to unsubscribe
+https://bit.ly/stop69</p>
+				</body>
+				</html>
+
+--1684307794-eximdsn-697152685--

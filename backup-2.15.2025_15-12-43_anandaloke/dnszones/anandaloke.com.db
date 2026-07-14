@@ -1,0 +1,22 @@
+; cPanel first:104.0.10 (update_time):1735871039 Cpanel::ZoneFile::VERSION:1.3 hostname:server206.domainonair.com latest:110.0.50
+; Zone file for anandaloke.com
+$TTL 14400
+anandaloke.com.	86400	IN	SOA	ns399.domainonair.com.	alert.domainonair.com.	(						2025010301						3600						1800						1209600						86400	)
+anandaloke.com.	86400	IN	NS	ns399.domainonair.com.
+anandaloke.com.	86400	IN	NS	ns400.domainonair.com.
+anandaloke.com.	86400	IN	NS	ns1.cyberhelpindia.com.
+anandaloke.com.	86400	IN	NS	ns2.cyberhelpindia.com.
+anandaloke.com.	14400	IN	A	216.245.220.158
+mail	14400	IN	CNAME	anandaloke.com.
+www	14400	IN	CNAME	anandaloke.com.
+ftp	14400	IN	A	216.245.220.158
+anandaloke.com.	14400	IN	TXT	"v=spf1 +a +mx +ip4:216.245.220.158 ~all"
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwz3UQN5YcasyYJe0c+EFvaxQDy09de7WGDdhoyjA4N9+gLdq+9dBfTCWuE/ssXz+sSiZsY8enXVICEewg2psZCdZogcWV276A4R/Zc5jwfE6zVqzx6HYcKfhs6LkQegJFOYJSn12aV9JlLRJubJM4bw7GAbz4tl/Oldjok22SBC78Ih/FXLPD9yTr1VSoBzAY" hWbbBk0Ejh5TnHvAXXgdCRm4Zu2i23XGmh5nw/hIpL7enpH3VmDjrMqnGQJSoFev2fe9GymZbr8n6qjn4rrIV0Y1M5YTibyY40PRX1P1DdIf4fct/ssox4t0V0ZPVhCLtwgZKyeYrb85A2BjH4sWwIDAQAB\;
+anandaloke.com.	14400	IN	TXT	google-site-verification=iJSsWJOKsWf5qnzGjJ_UzPWxMZc5mlAwnS5Gn4_pyUY
+anandaloke.com.	14400	IN	MX	1	ASPMX.L.GOOGLE.COM.
+anandaloke.com.	14400	IN	MX	5	ALT1.ASPMX.L.GOOGLE.COM.
+anandaloke.com.	14400	IN	MX	5	ALT2.ASPMX.L.GOOGLE.COM.
+anandaloke.com.	14400	IN	MX	10	ALT3.ASPMX.L.GOOGLE.COM.
+anandaloke.com.	14400	IN	MX	10	ALT4.ASPMX.L.GOOGLE.COM.
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=UTPMKy0xPQHrswxFriO3VTdvUYU1qAdl96iGg79c4qH9Y99e_aYSQzq8frW_2poj
+_acme-challenge	14400	IN	TXT	jqxRG-LaR7IW5-uJvo_r_fmb1Sd1wex52mQ2o-6VNFQ

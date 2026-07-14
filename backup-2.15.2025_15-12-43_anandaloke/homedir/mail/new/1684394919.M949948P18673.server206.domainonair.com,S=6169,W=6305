@@ -1,0 +1,136 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id KuF8OKfTZWTxSAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Thu, 18 May 2023 12:58:39 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Thu, 18 May 2023 12:58:39 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1pzY3z-0004r1-2L
+	for anandaloke@server206.domainonair.com;
+	Thu, 18 May 2023 12:58:39 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pzY3z-0004qq-1r@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1684394919-eximdsn-143358890
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pzY3z-0004r1-2L@server206.domainonair.com>
+Date: Thu, 18 May 2023 12:58:39 +0530
+
+--1684394919-eximdsn-143358890
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1684394919-eximdsn-143358890
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1684394919-eximdsn-143358890
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pzY3z-0004qq-1r
+	for info@anandaloke.com;
+	Thu, 18 May 2023 12:58:39 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 104.252.179.156
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: misty.mckinley@hotmail.com
+Message-Id: <E1pzY3z-0004qq-1r@server206.domainonair.com>
+Date: Thu, 18 May 2023 12:58:39 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Misty McKinley</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   079 0951 9860</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   misty.mckinley@hotmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   [Must Check] Turn Your Content Into Emotion Based Real Human Animated Avatar With ChatGPT In 30 Sec FLAT!</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hey,
+
+Do you know that platforms like Jasper, HeyGen, Synthesia, Audacity, Rytr, Audible, Scribe, garageband, Murf or any other site are charging between $50 to $299 per month for creating a boring 2D Static Avatar or robotic like Voices with low quality content or non copyrighted content..?
+
+And even they will block your account anytime with silly reasons.. 
+
+BUT!! 
+
+Today, My friends Akshat has released another premium WORLD'S First ChatGPT4 Powered Cloud Based Platform That Generates Unique High Quality Content & Converts It To Real Emotion Based Talking Human Avatars & Even Audios With A Few Clicks!
+
+With TalkingHumans AI, you can replace all of the memberships and it doesn't charge you a hefty recurring amount. No need to mess up with limited credits 
+
+Sounds interesting?
+
+WORLD'S First ChatGPT4 Powered Cloud Based Platform That Generates Unique High Quality Content & Converts It To Real Emotion Based Talking Human Avatars & Even Audios With A Few Clicks!
+
+Hereâ€™s why you canâ€™t miss it-
+
+í ½í±‰ Professional & Fully AI Cloud-Based Platform
+í ½í±‰ Latest ChaGPT4 Version Powered Platform 
+í ½í±‰ GPT4 Powered 3D Talking Humans Creator
+í ½í±‰ GPT4 Powered Photo To Cartoon Creator
+í ½í±‰ GPT4 Powered Emotion Based Voice Generator 
+í ½í±‰ GPT4 Powered 3D Avatar Generator 
+í ½í±‰ GPT4 Powered Video Creator
+í ½í±‰ 100+ Real Humans & Voices To Choose From
+í ½í±‰ 50+ Languages To Choose From
+í ½í±‰ Fully Drag N Drop Editor
+í ½í±‰ 1 Million Searchable Assets (Fully Royalty Free)
+í ½í±‰ Switch Your Old Boring 2D Avatars into a Real Emotion Based Animated Human Avatars 
+í ½í±‰ Pay Once & Get Profit Forever Without Any Restrictions 
+í ½í±‰ Inbuilt â€œSocial Sharingâ€ Feature For Getting Limitless Traffic
+í ½í±‰ COMMERCIAL LICENSE Included
+í ½í±‰ No Limitations - Completely Free
+í ½í±‰ No Special Skills or Experience Required
+í ½í±‰ Sell Unlimited Animated Human Avatars, Voice Overs, Videos & Earn Like The Big Boys
+í ½í±‰ Unlimited Downloads & Renderings 
+í ½í±‰ Step by Step Training
+í ½í±‰ And much moreâ€¦
+
+
+Get Your TalkingHumans AI Lifetime Account + Commercial License at a One-Time Price
+===> https://bit.ly/thumasx
+
+Special $4 Off - â€˜HUMANS4â€™ (Expires in an hour time)
+
+But remember after this week, TalkingHumans AI will turn into a recurring subscription.
+
+So act fast and get your account at the lowest price ever.
+
+
+To Your Success
+
+Richard
+==========
+Click here to unsubscribe
+https://bit.ly/stop69</p>
+				</body>
+				</html>
+
+--1684394919-eximdsn-143358890--

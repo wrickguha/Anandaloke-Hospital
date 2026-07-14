@@ -1,0 +1,176 @@
+*{ margin:0px; padding:0;}
+ul,li{margin:0; padding:0;}
+a{ font-size:12px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; color:#666363;}
+body{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:13px; color:#666363; background:url(../images/body_bg.jpg) no-repeat bottom center fixed;}
+
+#wraper{ width:999px; margin:0px auto; background:url(../images/outerwrap_bg.png) repeat-y top center;}
+#wraper_inner{ width:984px; margin:0px auto;}
+#header{ width:984px; float:left; height:128px; background:url(../images/header_bg.jpg) repeat-x top center; bottom:2px;}
+#logo{ width:309px; height:82px; float:left; background:url(../images/logo.png) no-repeat; margin:5px 110px 5px 5px;}
+#logo2018{ width:309px; height:82px; float:left; background:url(../images/logo_2018_t.png) no-repeat; background-size: 309px 82px; margin:5px 110px 5px 5px;}
+
+ 
+#accredit{  height:82px; float:right; background:url(../images/NABH_logoNew.png)   no-repeat;  background-size: 100px 82px;  padding-left: 110px;}
+ 
+#header_icon a{ float:left; margin:12px 6px 0 0; border:1px solid #7dc9e9;}
+#header_icon a:hover{border:1px solid #f6821f;}
+#header_gap {width:2px}
+#header_emergency{ float:left; margin:12px 6px 0 0;}
+#banner_line{width:984px; height:3px; float:left; background:#7dc9e9; margin-top:2px;}
+#banner{ width:984px; float:left;}
+#banner_portion{ width:985px; z-index:90; position:absolute; background:url(../images/banner_portion.png) no-repeat; height:89px; top:400px;}
+#icons{ width:968px; float:left; height:60px; margin:20px 0 0 25px;}
+#dashed{ width:984px; float:left; height:1px; background:url(../images/dash_line.jpg) repeat-x; margin-top:14px;}
+#group_container{width:219px; float:left; height:258px; margin-top:20px;}
+#left_container{width:205px; float:left; height:258px; margin:20px 0 0 10px;}
+
+#home_container{ width:722px; float:left; margin:20px 0px 0 12px;}
+#content_container{ width:510px; float:left; margin:20px 0px 0 12px;}
+#who_container{width:230px; float:left; margin-bottom:10px;}
+#who_header{width:225px; height:33px; float:left; background:url(../images/who_header.jpg) no-repeat; font-size:18px; color:#FFFFFF; padding:5px 0 0 5px;}
+#who_content{width:216px; float:left; border:1px solid #1384cc; border-top:none; font-size:13px; color:#939797; padding:6px; text-align:justify;}
+#vision_header{width:225px; height:33px; float:left; background:url(../images/vision_header.jpg) no-repeat; font-size:18px; color:#FFFFFF; padding:5px 0 0 5px;}
+#vision_content{width:216px; float:left; border:1px solid #d94b37; border-top:none; font-size:13px; color:#939797; padding:6px; text-align:justify;}
+#corevalue_header{width:225px; height:33px; float:left; background:url(../images/corevalue_header.jpg) no-repeat; font-size:18px; color:#FFFFFF; padding:5px 0 0 5px;}
+#corevalue_content{width:216px; float:left; border:1px solid #81b339; border-top:none; font-size:13px; color:#939797; padding:6px; text-align:justify;}
+
+h1{width:510px; float:left; margin-bottom:10px; font-size:22px; color:#f78320; font-weight:normal;}
+h2{width:510px; float:left; margin:15px 0 5px 0; font-size:18px; color:#22b6f0; font-weight:normal;}
+h3{width:510px; float:left; margin:15px 0 5px 0; font-size:16px; color:#f78320; font-weight:normal;}
+
+.h5{font-size:13px; color:#000000; font-weight:bold;}
+h6{font-size:22px; color:#FFFFFF; padding:5px 0 0 5px; font-weight:normal; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+h7{font-size:20px; color:#FFFFFF; padding-left:5px; font-weight:normal; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; line-height:35px;}
+h8{width:290px; float:left; margin:0px 0 5px 0; font-size:18px; color:#22b6f0; font-weight:normal;}
+h9{width:290px; float:left; margin:10px 0 5px 0; font-size:13px; color:#666363; font-weight:bold;}
+p{ line-height:18px; font-size:13px; color:#666363; font-weight:normal; text-align:justify; margin-bottom:5px; float:left; width:510px;}
+.img{ float:left; margin-right:10px; border:1px solid #CCCCCC; padding:3px;}
+
+#blog_container{width:510px; height:130px; float:left;}
+.blog_img{width:200px; height:130px; float:left; margin-right:10px; border:#CCCCCC 1px solid;}
+
+.p_arrow ul{list-style-type:none; line-height:18px; font-size:13px; color:#666363; font-weight:normal; text-align:justify;}
+.p_arrow li{background:url(../images/p_arrow.jpg) no-repeat left top; float:left; padding-left:10px; margin-bottom:10px; width:500px;}
+.p_image{float:left; margin:10px; width:207px; font-weight:bold; line-height:30px;}
+.nephrology_image{float:left; margin:10px; width:411px; height:185px;}
+.news_image a{float:left; margin:10px; border:1px solid #4dead5;}
+.news_image a:hover {border:1px solid #F78320;}
+
+#client_enquery_btn{width:206px; height:60px; float:left; margin-top:20px;}
+
+#smiletrain{width:205px; height:289px; float:left; margin-top:15px;}
+#responsibility_container{width:475px; float:left; margin-right:15px;}
+#responsibility_header{width:475px; height:38px; float:left; background:url(../images/responsibility_header_bg.jpg) repeat-x;}
+#responsibility_header_top{width:475px; height:5px; float:left; background:url(../images/responsibility_header_top.jpg) no-repeat;}
+#responsibility_content{width:473px; height:303px; float:left; border:1px solid #80b238;}
+
+#facilities_container{width:228px; float:left;}
+#facilities_header{width:228px; height:38px; float:left; background:url(../images/facilities_header_bg.jpg) repeat-x;}
+#facilities_header_top{width:228px; height:5px; float:left; background:url(../images/facilities_header_top.jpg) repeat-x;}
+#facilities_content{width:226px; height:303px; float:left; border:1px solid #5ac8f7;}
+
+ 
+
+#enquiry{width:52px; height:156px; position:absolute; top:20px; right:0; position:fixed;}
+
+.readmore a{ color:#f6841f; background:url(../images/arrow_readmore.jpg)left no-repeat; padding-left:10px; font-family:Arial, Helvetica, sans-serif; font-size:11px; margin:10px 5px 5px 0px; float:right;}
+
+.readmore1 a{ color:#f6841f; background:url(../images/arrow_readmore.jpg)left no-repeat; padding-left:10px; font-family:Arial, Helvetica, sans-serif; font-size:11px; margin:0px 5px 5px 0px; float:right; text-decoration:none;}
+
+#right_container{ width:220px; float:left; margin:20px 0 0 20px;}
+<!--News Ticker-->
+#newsticker-demo {width:217px; font-size:12px; margin:20px 0px; border:1px solid #44e1d9;}
+#newsticker-demo a { text-decoration:none; color:#05c0f3; font-size:12px;}
+#newsticker-demo img { border:2px solid #FFFFFF; }
+#newsticker-demo .title { background:url(../images/news_header_bg.jpg) repeat-x; height:35px; width:219px;}
+#newsticker-demo .title_top { background:url(../images/news_header_top.jpg) no-repeat; height:4px; width:219px;}
+
+.newsticker-jcarousellite { width:217px; border:1px solid #44e1d9;}
+.newsticker-jcarousellite ul li{ list-style:none; display:block; padding:4px; margin-bottom:5px; border-bottom:1px dashed #c8c8bd; }
+.newsticker-jcarousellite .info { float:left; width:210px; padding:2px 0px 5px 0px; font-family:"Trebuchet MS";}
+.newsticker-jcarousellite .info span.cat { display: block; font-size:12px; color:#808080;}
+
+.clear { clear: both; }
+<!--News Ticker-->
+
+<!--Icon Nav-->
+#icon_container{ width:950px; height:40px; float:right; margin-right:50px;}
+#icon_text a{border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; display:block;}
+#neuro a{ background:url(../images/icons/neuro.png) top center no-repeat; display:block;}
+
+
+.mainNav {width:970px; float:left; font-family:"Trebuchet MS"; margin:20px 0 0 10px;}
+
+.mainNav a#neuro{ background:url(../images/icons/neuro.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#cardiology{ background:url(../images/icons/cardiology.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#gastro{ background:url(../images/icons/gastro.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#urology{ background:url(../images/icons/urology.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#nephrology { background:url(../images/icons/nephrology.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#orthopaedic{ background:url(../images/icons/orthopaedic.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#gynaeocology{ background:url(../images/icons/gynaeocology.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#eye{ background:url(../images/icons/eye.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#paediatric{ background:url(../images/icons/paediatric.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#plastic_surgery{ background:url(../images/icons/plastic_surgery.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#skin_care{ background:url(../images/icons/skin_care.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+
+.mainNav a#ent{ background:url(../images/icons/ent.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#diabetology{ background:url(../images/icons/diabetology.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+.mainNav a#laparoscopy{ background:url(../images/icons/laparoscopy.png) top center no-repeat; display:block; width:68px; border:none; font-size:10px; padding-top:40px; color:#a6a7a7; text-align:center; text-decoration:none; float:left;}
+<!--Icon Nav-->
+
+<!--Anandaloke Group-->
+.arrowlistmenu{ }
+.arrowlistmenu .headerbar{ background:url(../images/group_header_bg.jpg) repeat-x; height:35px;}
+.arrowlistmenu .header_top{ background:url(../images/group_header_top.jpg) no-repeat; height:5px; width:219px;}
+.arrowlistmenu ul{list-style-type:none; border:1px solid #fbb861;}
+.arrowlistmenu ul li{}
+.arrowlistmenu ul li a{color:#888888;
+background: url(../images/group_arrow.png) no-repeat center left;
+display: block;
+padding: 8px 0;
+padding-left: 29px;
+text-decoration: none;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size: 13px;
+border-bottom: 1px dashed #dadada;
+}
+.arrowlistmenu ul li a:hover{color:#fe8115; background-color:#F3F3F3;}
+<!--Anandaloke Group-->
+
+<!--Left Menu-->
+.leftmenu{ }
+.leftmenu ul{list-style-type:none;}
+.leftmenu ul li{}
+.leftmenu ul li a{color:#ffffff; background:url(../images/leftnav.jpg) no-repeat; display:block; padding:6px 0 14px 29px; text-decoration:none; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:15px;}
+.leftmenu ul li a:hover{background:url(../images/leftnav_active.jpg) no-repeat;}
+.leftmenu ul li a.active{background:url(../images/leftnav_active.jpg) no-repeat;}
+<!--Left Menu-->
+
+#footer_container{width:984px; float:left;}
+#footer_line{width:984px; height:3px; float:left; margin-bottom:10px; background:url(../images/footer_line.jpg) no-repeat;}
+ 
+#copyright{ font-size:11px; color:#7f7e7e; float:left; margin:5px 0 20px 15px; width:210px;}
+#design{ font-size:11px; color:#7f7e7e; float:right; margin:5px 0 20px 15px; width:220px;}
+#scl_ntk{ width:420px; height:30px; float:right; margin-right:50px;}
+#scl_icon{ width:32px; height:30px; float:left; margin-right:8px;}
+
+#links{ width:180px; float:left; margin:0px 0 20px 0px;}
+#links ul li{ display:inline;}
+#links ul li a{color:#f6841f; font-size:12px; text-decoration:none; font-family:Arial, Helvetica, sans-serif; border-right:1px solid #f6841f; padding:0 6px 0 7px;}
+#links ul li a:hover{ color:#6a6464; text-decoration:underline;}
+#links ul li a.active{ color:#6a6464;}
+
+
+.flexslider {height:297px; margin:0px; padding:0;}
+.flexslider .slides li {display: none; list-style:none;}
+.flexslider .slides img {height:297px; display: block;  margin:3px 0 0 3px; float:left;}
+
+.input{height:25px; margin:3px 0; color:#666363;}
+
+
+#gallery {width:500px;}
+#gallery ul { list-style: none; }
+#gallery ul li { display: inline; }
+#gallery ul img {border:1px solid #4dead5; margin:10px 0 10px 20px; width:200px;}
+#gallery ul a:hover img {border:1px solid #F78320;}
+

@@ -1,0 +1,67 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id M4j6Dy+9JmRJfQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Fri, 31 Mar 2023 16:29:59 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Fri, 31 Mar 2023 16:29:59 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1piCUB-0008L8-0H
+	for anandaloke@server206.domainonair.com;
+	Fri, 31 Mar 2023 16:29:59 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1piCUA-0008Kz-2w@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1680260399-eximdsn-945443396
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1piCUB-0008L8-0H@server206.domainonair.com>
+Date: Fri, 31 Mar 2023 16:29:59 +0530
+
+--1680260399-eximdsn-945443396
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1680260399-eximdsn-945443396
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1680260399-eximdsn-945443396
+Content-type: text/rfc822-headers
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1piCUA-0008Kz-2w
+	for sonoscan@anandaloke.com;
+	Fri, 31 Mar 2023 16:29:58 +0530
+To: sonoscan@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 103.88.216.246
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1piCUA-0008Kz-2w@server206.domainonair.com>
+Date: Fri, 31 Mar 2023 16:29:58 +0530
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1680260399-eximdsn-945443396--

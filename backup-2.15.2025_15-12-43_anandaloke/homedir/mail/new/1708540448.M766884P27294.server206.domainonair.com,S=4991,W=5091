@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id MC4BKCBC1mWeagAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Thu, 22 Feb 2024 00:04:08 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Thu, 22 Feb 2024 00:04:08 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rcrQ0-00077r-1m
+	for anandaloke@server206.domainonair.com;
+	Thu, 22 Feb 2024 00:04:08 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rcrQ0-00077j-0H@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1708540448-eximdsn-2067635039
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rcrQ0-00077r-1m@server206.domainonair.com>
+Date: Thu, 22 Feb 2024 00:04:08 +0530
+
+--1708540448-eximdsn-2067635039
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection m36-20020a05683026e400b006e2cf7511dbsi2784323otu.207 - gsmtp
+
+--1708540448-eximdsn-2067635039
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection m36-20020a05683026e400b006e2cf7511dbsi2784323otu.207 - gsmtp
+
+--1708540448-eximdsn-2067635039
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rcrQ0-00077j-0H
+	for opd.anandaloke@gmail.com;
+	Thu, 22 Feb 2024 00:04:08 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 216.73.163.86
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: lowrance.trevor29@yahoo.com
+Message-Id: <E1rcrQ0-00077j-0H@server206.domainonair.com>
+Date: Thu, 22 Feb 2024 00:04:08 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Trevor Lowrance</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   06-82735339</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   lowrance.trevor29@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   To the anandaloke.com Webmaster.</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   GAMIFY your videos and get viewers to happily give you their email and phone number.  There is no other tech like this..it’s the next big thing. As seen on CBS, NBC, FOX, and ABC.  
+See if you qualify for a free GAMIFICATION of your video.
+
+Contact me via my email or skype below for more details
+
+
+Robert
+email: gamifyvideo@gmail.com
+skype: live:.cid.d347be37995c0a8d</p>
+				</body>
+				</html>
+
+--1708540448-eximdsn-2067635039--

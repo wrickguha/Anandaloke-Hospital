@@ -1,0 +1,66 @@
+
+#accordion-container {width:720px;}
+
+.accordionButton {	
+	width: 715px;
+	float: left;
+	color:#ffffff;
+	padding:8px 0px 8px 5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	background:#22b6f0 url(../images/accordian_bg.jpg) top right no-repeat;
+	border-bottom: 1px solid #FFFFFF;
+	cursor: pointer;
+	
+	}
+	
+.accordionContent {	
+	width: 710px;
+	padding:5px;
+	float: left;
+	background: #f7fbfc;
+	}
+	
+/***********************************************************************************************************************
+ EXTRA STYLES ADDED FOR MOUSEOVER / ACTIVE EVENTS
+************************************************************************************************************************/
+
+.on {
+	background:#f6821f url(../images/accordian_active.jpg) no-repeat top right;
+	}
+	
+.over {
+	background: #f6821f url(../images/accordian_active.jpg) no-repeat top right;
+	}
+	
+	
+	.accordionContent ul{ /*CSS for UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 1px; /*bottom spacing between each UL and rest of content*/
+width:720px;
+}
+
+.accordionContent ul li{
+padding-bottom: 2px; /*bottom spacing between menu items*/
+background:#ffffff;
+}
+
+.accordionContent ul li a{
+color: #888787;
+background: url(../images/orenge_arrow.jpg) no-repeat center left; /*custom bullet list image*/
+display: block;
+padding: 10px 0;
+padding-left: 10px; /*link text is indented 19px*/
+text-decoration: none;
+font-size:12px;
+border-bottom: 1px #e7e6e6 dashed;
+line-height:18px;
+}
+
+.accordionContent ul li a:hover{ /*hover state CSS*/
+
+background-color: #fbfafa;
+}

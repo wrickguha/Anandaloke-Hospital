@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id 6NN2LA5hh2R8bQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Mon, 12 Jun 2023 23:46:46 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Mon, 12 Jun 2023 23:46:46 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96)
+	id 1q8m5u-0007IZ-21
+	for anandaloke@server206.domainonair.com;
+	Mon, 12 Jun 2023 23:46:46 +0530
+X-Failed-Recipients: corporate.ahnc2@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1q8m5s-0007IM-1L@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1686593806-eximdsn-63331496
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1q8m5u-0007IZ-21@server206.domainonair.com>
+Date: Mon, 12 Jun 2023 23:46:46 +0530
+
+--1686593806-eximdsn-63331496
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  corporate.ahnc2@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. ee5-20020a056870c80500b001a3125ecd13si4069549oab.186 - gsmtp
+
+--1686593806-eximdsn-63331496
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;corporate.ahnc2@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. ee5-20020a056870c80500b001a3125ecd13si4069549oab.186 - gsmtp
+
+--1686593806-eximdsn-63331496
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1q8m5s-0007IM-1L
+	for corporate.ahnc2@gmail.com;
+	Mon, 12 Jun 2023 23:46:44 +0530
+To: corporate.ahnc2@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 154.13.107.16
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: pete.pickrell@yahoo.com
+Message-Id: <E1q8m5s-0007IM-1L@server206.domainonair.com>
+Date: Mon, 12 Jun 2023 23:46:44 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Pete Pickrell</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   06-79919402</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   pete.pickrell@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Never pay for voice work again with AI</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi there,
+
+Are you ready to start your audiobook or podcast empire?
+
+Maybe you need a captivating voice over for a commercial, presentation or explainer video? 
+
+Stop wasting time and money on voice work and unlock the potential of AI! 
+
+Powered by ChatGPT, our AI app can turn any document, website, article or blog post into a high-quality audiobook or voice over in 60 seconds. 
+
+Take your pick from over 660 lifelike human voices and more than 80 different languages. 
+
+No previous experience, no complicated setup and no technical skills required!  
+
+You can even publish and sell your audiobooks on our platform with 2.3 million active users! 
+
+Start now at: http://tiny.cc/hts7vz
+
+Regards,
+Pete</p>
+				</body>
+				</html>
+
+--1686593806-eximdsn-63331496--

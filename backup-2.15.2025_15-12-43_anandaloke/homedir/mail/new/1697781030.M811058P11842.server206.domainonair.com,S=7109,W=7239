@@ -1,0 +1,130 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id MpzfLCYVMmVCLgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Fri, 20 Oct 2023 11:20:30 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Fri, 20 Oct 2023 11:20:30 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1qtiP0-00034t-1y
+	for anandaloke@server206.domainonair.com;
+	Fri, 20 Oct 2023 11:20:30 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1qtiOz-00034j-2f@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1697781030-eximdsn-1837810123
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qtiP0-00034t-1y@server206.domainonair.com>
+Date: Fri, 20 Oct 2023 11:20:30 +0530
+
+--1697781030-eximdsn-1837810123
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.138.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. v5-20020a4ac005000000b005736095a917si380221oop.63 - gsmtp
+
+--1697781030-eximdsn-1837810123
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. v5-20020a4ac005000000b005736095a917si380221oop.63 - gsmtp
+
+--1697781030-eximdsn-1837810123
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1qtiOz-00034j-2f
+	for opd.anandaloke@gmail.com;
+	Fri, 20 Oct 2023 11:20:29 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 196.19.249.67
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: thorby.kent@yahoo.com
+Message-Id: <E1qtiOz-00034j-2f@server206.domainonair.com>
+Date: Fri, 20 Oct 2023 11:20:29 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Kent Thorby</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   06-60927351</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   thorby.kent@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Optimize Your Sales with The Revolutionary Tool!</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   To the anandaloke.com Owner. this is Eric and I found anandaloke.com some moments ago.
+
+Seems great…  now what?
+
+By that I mean, once someone like myself discovers your website –  via a Search or just bouncing around – what happens next? Are you getting a lot of leads from your site, or  enough to make you happy?
+
+Honestly, most business websites come a bit short in terms of it comes to generating paying customers. Research show that 70% of a site’s visitors leave and are gone forever  just a moment.
+
+Here is an idea…
+
+How about making it really EASY for every visitor who comes to get a personal phone call you as soon as they hit your site…
+
+This is possible –
+
+Web Visitors Into Leads is a software  that’s works on your site, ready to grab any visitor’s Name, Email address and Phone Number. It alerts you the moment they make you know they’re interested – so that you can talk to that lead whilst they’re literally browsing your site.
+
+CLICK HERE https://bit.ly/LeadGena to try out a Live Demo with Web Visitors Into Leads now to see exactly how it functions.
+
+You will be amazed - the difference between reaching out to someone within just 5 minutes versus a half-hour or more later could increase your results 100-fold.
+
+It turns even better… after you’ve captured their phone number, with our new SMS Text With Lead function, you can instantly start a text (SMS) discussion.
+
+Thus, even if you don’t finalize a deal right away, you can stay connected with text messages for new deals, content links, even just “how you doing?” notes to establish a relationship.
+
+Rather sweet – AND effective.
+
+CLICK HERE https://bit.ly/LeadGena to find out what Web Visitors Into Leads can do for your business.
+
+You can be turning up to 100X more leads as we speak!
+
+Eric
+PS: Web Visitors Into Leads gives a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers eager to chat with you right now… don’t keep them waiting. 
+CLICK HERE https://bit.ly/LeadGena to experience Web Visitors Into Leads today.
+
+If you'd want to unsubscribe click here https://bit.ly/3rD0G5c
+
+Only a short note - the names and email used here, Kent and Thorby, are dummy data and not genuine contact information. We value transparency and want to ensure  you’re aware! If you wish to get in touch with the genuine person behind this message, kindly visit our website, and we’ll associate you with the correct individual.}
+</p>
+				</body>
+				</html>
+
+--1697781030-eximdsn-1837810123--

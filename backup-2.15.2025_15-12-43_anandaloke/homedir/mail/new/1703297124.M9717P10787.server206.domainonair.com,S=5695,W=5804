@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id SL21OmNAhmUjKgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sat, 23 Dec 2023 07:35:23 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sat, 23 Dec 2023 07:35:24 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rGrOF-0002tB-2m
+	for anandaloke@server206.domainonair.com;
+	Sat, 23 Dec 2023 07:35:23 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rGrOF-0002sx-0V@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1703297123-eximdsn-299987408
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rGrOF-0002tB-2m@server206.domainonair.com>
+Date: Sat, 23 Dec 2023 07:35:23 +0530
+
+--1703297123-eximdsn-299987408
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from aol.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of aol.com domain if
+    550-5.7.26 this was a legitimate mail. To learn about the DMARC initiative, go
+    550-5.7.26 to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection v30-20020a4a8c61000000b005945be7d5acsi96637ooj.37 - gsmtp
+
+--1703297123-eximdsn-299987408
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from aol.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of aol.com domain if
+ 550-5.7.26 this was a legitimate mail. To learn about the DMARC initiative, go
+ 550-5.7.26 to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection v30-20020a4a8c61000000b005945be7d5acsi96637ooj.37 - gsmtp
+
+--1703297123-eximdsn-299987408
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rGrOF-0002sx-0V
+	for opd.anandaloke@gmail.com;
+	Sat, 23 Dec 2023 07:35:23 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Appointment Enquiry from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-modal.php for 146.70.72.140
+X-PHP-Originating-Script: 1722:check-modal.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: anandaloke.com@aol.com
+Message-Id: <E1rGrOF-0002sx-0V@server206.domainonair.com>
+Date: Sat, 23 Dec 2023 07:35:23 +0530
+
+<html>
+				  	<head>
+  						<title>New Appointment Enquiry from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Appointment Enquiry from Anandaloke Hospital</h3>					
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name </span>				    	:   Dusty</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No </span>			    	:   077 0871 4816</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID </span>			    	:   anandaloke.com@aol.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Age </span>			    		:   58</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Gender </span>			    		:   Male</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Department </span>			    		:   Rheumatology</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Preferred Doctor </span>			    		:   Dr. A.K. Singh, MS</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Appointment Date </span>				    	:   Yqw f Kefgcw</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message </span>				    	:   Morning 
+
+I wanted to reach out and let you know about our new dog harness. It's really easy to put on and take off - in just 2 seconds - and it's personalized for each dog. 
+Plus, we offer a lifetime warranty so you can be sure your pet is always safe and stylish.
+
+We've had a lot of success with it so far and I think your dog would love it. 
+
+Get yours today with 50% OFF:  https://caredogbest.com
+
+FREE Shipping - TODAY ONLY! 
+
+Enjoy, 
+
+Dusty</p>
+				</body>
+				</html>
+
+--1703297123-eximdsn-299987408--

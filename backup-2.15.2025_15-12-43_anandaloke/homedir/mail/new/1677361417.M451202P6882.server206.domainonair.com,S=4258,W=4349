@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id UvLOCQmB+mPiGgAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 26 Feb 2023 03:13:37 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 26 Feb 2023 03:13:37 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pW2KO-0001mg-Os
+	for anandaloke@server206.domainonair.com;
+	Sun, 26 Feb 2023 03:13:36 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pW2KN-0001mD-HJ@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677361416-eximdsn-198325440
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pW2KO-0001mg-Os@server206.domainonair.com>
+Date: Sun, 26 Feb 2023 03:13:36 +0530
+
+--1677361416-eximdsn-198325440
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1677361416-eximdsn-198325440
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1677361416-eximdsn-198325440
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pW2KN-0001mD-HJ
+	for info@anandaloke.com;
+	Sun, 26 Feb 2023 03:13:35 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 104.227.30.132
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pW2KN-0001mD-HJ@server206.domainonair.com>
+Date: Sun, 26 Feb 2023 03:13:35 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Hildegarde Ebden</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   0343 1901441</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   hildegarde.ebden58@outlook.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Get More Likes, Followers, and Engagement on Instagram</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi,
+
+Have you ever wondered how the big influencers on Instagram make so much money? If the answer is “yes”, then this eBook is exactly what you’ve been looking for. We go over everything you need to know about gaining real followers and earning real money.
+
+With over 200 pages of strategies, growth methods and secrets – it’s an Instagram goldmine! We have helped thousands of people to radically grow their profiles, businesses and income.
+
+Still unsure? Download 2 chapters for free and then decide.
+
+Visit: https://bit.ly/3ISC7Hw
+
+Kind Regards,
+Hildegarde</p>
+				</body>
+				</html>
+
+--1677361416-eximdsn-198325440--

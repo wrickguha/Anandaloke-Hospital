@@ -1,0 +1,134 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id mHCQOvJmeWWgBAAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Wed, 13 Dec 2023 13:40:26 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Wed, 13 Dec 2023 13:40:27 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rDKK2-0000Iz-2a
+	for anandaloke@server206.domainonair.com;
+	Wed, 13 Dec 2023 13:40:26 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rDKK2-0000In-06@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1702455026-eximdsn-86568881
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rDKK2-0000Iz-2a@server206.domainonair.com>
+Date: Wed, 13 Dec 2023 13:40:26 +0530
+
+--1702455026-eximdsn-86568881
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.113.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+    550-5.7.26 go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection f9-20020a056830264900b006d8419f0bffsi3777244otu.80 - gsmtp
+
+--1702455026-eximdsn-86568881
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. To learn about the DMARC initiative,
+ 550-5.7.26 go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection f9-20020a056830264900b006d8419f0bffsi3777244otu.80 - gsmtp
+
+--1702455026-eximdsn-86568881
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rDKK2-0000In-06
+	for opd.anandaloke@gmail.com;
+	Wed, 13 Dec 2023 13:40:26 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 196.242.47.237
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: pratt.bradly@yahoo.com
+Message-Id: <E1rDKK2-0000In-06@server206.domainonair.com>
+Date: Wed, 13 Dec 2023 13:40:26 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Bradly Pratt</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   (19) 3919-3370</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   pratt.bradly@yahoo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Transform Your Online Presence with This Innovative Solution!</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Cool website!
+
+Hi anandaloke.com Webmaster.
+
+My name’s Bradly, and I just discovered your site - anandaloke.com - while surfing the net. You surfaced at the top of the search results, so I looked you out. Looks like what you’re doing is pretty cool.  
+
+But if you don’t mind me asking – after someone like me runs across anandaloke.com, what typically happens?
+
+Is your site generating leads for your business? 
+
+I’m guessing some, but I also bet you’d like more… studies reveal that 7 out 10 who arrive on a site end up leaving without a trace.
+
+Not good.
+
+Here’s a idea – what if there was an effortless way for every visitor to “lift their hand” to get a phone call from you INSTANTLY… the second they hit your site and declared, “call me now.”
+
+You can –
+  
+Web Visitor is a software widget that’s operates on your site, prepared to grab any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can chat to that lead while they’re literally looking over your site.
+
+CLICK HERE https://turboleadgeneration.com to try out a Live Demo with Web Visitor now to see precisely how it works.
+
+Time is money when it comes to connecting with with leads – the distinction between contacting someone within 5 minutes versus 30 minutes later can be massive – like 100 times better!
+
+That’s why we constructed our new SMS Text With Lead feature because once you’ve captured the visitor’s phone number, you can automatically start a text message (SMS) conversation.
+  
+Consider the possibilities – even if you don’t close a deal then and there, you can follow-up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+
+Wouldn’t that be cool?
+
+CLICK HERE https://turboleadgeneration.com to discover what Web Visitor can do for your business
+
+You could be converting up to 100X more leads today!
+Bradly
+
+PS: Web Visitor offers a FREE 14 days trial – and it even includes Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE https://turboleadgeneration.com to test Visitor now.
+
+If you'd like to unsubscribe click here https://turboleadgeneration.com/unsubscribe.aspx?d=anandaloke.com
+
+Simply a brief remark - the names and email applied in this communication, Bradly and Pratt, are substitutes and not really actual contact details. We value honesty and wished to confirm you’re aware! If you desire to make contact with the true individual responsible for this message, do visit our site, and we’ll connect you with the proper individual.
+</p>
+				</body>
+				</html>
+
+--1702455026-eximdsn-86568881--

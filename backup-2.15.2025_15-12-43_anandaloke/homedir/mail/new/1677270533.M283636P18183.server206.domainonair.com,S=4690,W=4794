@@ -1,0 +1,104 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id af3IEAUe+WMHRwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sat, 25 Feb 2023 01:58:53 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sat, 25 Feb 2023 01:58:53 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pVegX-0004j6-1I
+	for anandaloke@server206.domainonair.com;
+	Sat, 25 Feb 2023 01:58:53 +0530
+X-Failed-Recipients: sonoscan@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pVegW-0004ix-Rf@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677270533-eximdsn-2036552614
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pVegX-0004j6-1I@server206.domainonair.com>
+Date: Sat, 25 Feb 2023 01:58:53 +0530
+
+--1677270533-eximdsn-2036552614
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sonoscan@anandaloke.com
+    No Such User Here
+
+--1677270533-eximdsn-2036552614
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;sonoscan@anandaloke.com
+Status: 5.0.0
+
+--1677270533-eximdsn-2036552614
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pVegW-0004ix-Rf
+	for sonoscan@anandaloke.com;
+	Sat, 25 Feb 2023 01:58:52 +0530
+To: sonoscan@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 192.3.208.123
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pVegW-0004ix-Rf@server206.domainonair.com>
+Date: Sat, 25 Feb 2023 01:58:52 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Katy Trilly</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   996 59 590</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   katytrilly9@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Explainer Video for anandaloke.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hi,
+
+We'd like to introduce to you our explainer video service, which we feel can benefit your site anandaloke.com.
+
+Check out some of our existing videos here:
+https://www.youtube.com/watch?v=zvGF7uRfH04
+https://www.youtube.com/watch?v=cZPsp217Iik
+https://www.youtube.com/watch?v=JHfnqS2zpU8
+
+All of our videos are in a similar animated format as the above examples, and we have voice over artists with US/UK/Australian accents.
+We can also produce voice overs in languages other than English.
+
+They can show a solution to a problem or simply promote one of your products or services. They are concise, can be uploaded to video sites such as YouTube, and can be embedded into your website or featured on landing pages.
+
+Our prices are as follows depending on video length:
+Up to 1 minute = $239
+1-2 minutes = $339
+2-3 minutes = $439
+
+*All prices above are in USD and include a full script, voice-over and video.
+
+If this is something you would like to discuss further, don't hesitate to reply.
+
+Kind Regards,
+Katy</p>
+				</body>
+				</html>
+
+--1677270533-eximdsn-2036552614--

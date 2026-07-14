@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id R7BOAwKh7mV2IwAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Mon, 11 Mar 2024 11:43:22 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Mon, 11 Mar 2024 11:43:22 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.96.2)
+	id 1rjYuX-0002MJ-30
+	for anandaloke@server206.domainonair.com;
+	Mon, 11 Mar 2024 11:43:22 +0530
+X-Failed-Recipients: opd.anandaloke@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1rjYuX-0002M3-0y@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710137601-eximdsn-1954156709
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rjYuX-0002MJ-30@server206.domainonair.com>
+Date: Mon, 11 Mar 2024 11:43:21 +0530
+
+--1710137601-eximdsn-1954156709
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  opd.anandaloke@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Unauthenticated email from theheritageseo.com is not accepted due to
+    550-5.7.26 domain's DMARC policy. Please contact the administrator of
+    550-5.7.26 theheritageseo.com domain if this was a legitimate mail. To learn
+    550-5.7.26 about the DMARC initiative, go to
+    550 5.7.26  https://support.google.com/mail/?p=DmarcRejection dp6-20020a056808424600b003c1e934ef65si1161405oib.136 - gsmtp
+
+--1710137601-eximdsn-1954156709
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;opd.anandaloke@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from theheritageseo.com is not accepted due to
+ 550-5.7.26 domain's DMARC policy. Please contact the administrator of
+ 550-5.7.26 theheritageseo.com domain if this was a legitimate mail. To learn
+ 550-5.7.26 about the DMARC initiative, go to
+ 550 5.7.26  https://support.google.com/mail/?p=DmarcRejection dp6-20020a056808424600b003c1e934ef65si1161405oib.136 - gsmtp
+
+--1710137601-eximdsn-1954156709
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.96.2)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1rjYuX-0002M3-0y
+	for opd.anandaloke@gmail.com;
+	Mon, 11 Mar 2024 11:43:21 +0530
+To: opd.anandaloke@gmail.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 146.196.33.152
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: ella@theheritageseo.com
+Message-Id: <E1rjYuX-0002M3-0y@server206.domainonair.com>
+Date: Mon, 11 Mar 2024 11:43:21 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Ella Smith</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   5712007758</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   ella@theheritageseo.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Attention: Important SEO Message </p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Hello, 
+
+I hope this email finds you well. We recently conducted an audit of your GMB listing and website and found several SEO errors that are negatively impacting your online presence. Some critical errors we noticed include duplicate content, missing meta tags, and broken links.
+
+We understand the importance of having a strong SEO presence for your business, which is why we would like to offer our budget-friendly SEO services to help fix these errors and improve your overall visibility online. Would you be interested in discussing how we can help enhance your SEO strategy? Please let us know, and we would be happy to provide more information.
+
+Best regards,
+Ella
+</p>
+				</body>
+				</html>
+
+--1710137601-eximdsn-1954156709--

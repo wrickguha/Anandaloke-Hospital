@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: anandaloke@server206.domainonair.com
+Received: from server206.domainonair.com
+	by server206.domainonair.com with LMTP
+	id iKViOIZq32PGPQAA1YDnJw
+	(envelope-from <>)
+	for <anandaloke@server206.domainonair.com>; Sun, 05 Feb 2023 14:06:22 +0530
+Return-path: <>
+Envelope-to: anandaloke@server206.domainonair.com
+Delivery-date: Sun, 05 Feb 2023 14:06:22 +0530
+Received: from mailnull by server206.domainonair.com with local (Exim 4.95)
+	id 1pOaVa-0004AV-P8
+	for anandaloke@server206.domainonair.com;
+	Sun, 05 Feb 2023 14:06:22 +0530
+X-Failed-Recipients: info@anandaloke.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server206.domainonair.com>
+To: anandaloke@server206.domainonair.com
+References: <E1pOaVa-0004AO-KV@server206.domainonair.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1675586182-eximdsn-1161460213
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pOaVa-0004AV-P8@server206.domainonair.com>
+Date: Sun, 05 Feb 2023 14:06:22 +0530
+
+--1675586182-eximdsn-1161460213
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@anandaloke.com
+    No Such User Here
+
+--1675586182-eximdsn-1161460213
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server206.domainonair.com
+
+Action: failed
+Final-Recipient: rfc822;info@anandaloke.com
+Status: 5.0.0
+
+--1675586182-eximdsn-1161460213
+Content-type: message/rfc822
+
+Return-path: <anandaloke@server206.domainonair.com>
+Received: from anandaloke by server206.domainonair.com with local (Exim 4.95)
+	(envelope-from <anandaloke@server206.domainonair.com>)
+	id 1pOaVa-0004AO-KV
+	for info@anandaloke.com;
+	Sun, 05 Feb 2023 14:06:22 +0530
+To: info@anandaloke.com
+Subject: New Enquiry  from Anandaloke Hospital
+X-PHP-Script: www.anandaloke.com/check-contact.php for 23.179.32.16
+X-PHP-Originating-Script: 1722:check-contact.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: <$email@server206.domainonair.com>
+Message-Id: <E1pOaVa-0004AO-KV@server206.domainonair.com>
+Date: Sun, 05 Feb 2023 14:06:22 +0530
+
+<html>
+				  	<head>
+  						<title>New Enquiry  from Anandaloke Hospital</title>
+					</head>
+					<body style="background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%) no-repeat;">
+					<div style="width:600px;max-width:100%;background:#fff;padding:20px;border:1px solid #f8f8f8;margin:0 auto;border:5px solid #eee;border-radius:10px;">
+					<h3 style="margin:0 0 10px;padding-bottom:5px;border-bottom:1px solid #ddd;">New Enquiry  from Anandaloke Hospital</h3>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Name</span>				    	:   Quentin Farfan</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Phone No</span>			    	:   03.92.35.77.15</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Email ID</span>			    	:   farfan.quentin@gmail.com</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Subject</span>			    		:   Dear anandaloke.com Webmaster.</p>
+					<p style="width:100%;background:#f8f8f8;padding:5px;border-right:3px solid #18c1c9;"><span style="width:40%;">Message</span>			    	:   Dear Sir
+
+My name is Quentin.I found your site today from a guest post. This post specifically mentions your website:anandaloke.com. Your writing is very good and I congratulate you for your successful publication.
+Because of the many limitations of guest posts, not everyone has the good fortune to be able to successfully publish a guest post. If your writing meets the strict requirements of a guest post, then you can ignore this email.
+If not. Please keep checking!
+Writing a guest post writer encounters many obstacles. First of all, the creative inspiration to write, secondly, the need to research the best articles and keyword attributes, and finally, the need to write a clear outline and an interesting beginning. All this takes up the writer's writing time.
+How to improve the efficiency of writers' writing and produce high-quality content. We conducted a study to analyze this.
+
+The writers in our team compared the publication rates for the last 3 months separately. We found that some of the writers had a publication rate of over 70%. Because they use AI tools as an aid, the article creation time is saved by a large margin.
+
+Click on the link to view:https://tinyurl.com/4k2j6vhk?url=anandaloke.com
+
+
+Click the following link to unsubscribe: http://titeh.org/unsubscribe.php?d=anandaloke.com</p>
+				</body>
+				</html>
+
+--1675586182-eximdsn-1161460213--
