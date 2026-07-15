@@ -19,6 +19,7 @@
 <li><a href="paediatrics-and-neonatology">Paediatrics &amp; Neonatology</a></li>
 <li><a href="ophthalmology">Ophthalmology(Eye care)</a></li>
 <li><a href="emergengy-and-trauma-care">Emergengy &amp; Trauma Care</a></li>
+<li><a href="dnb-radiodiagnosis">DNB Radiodiagnosis</a></li>
 </ul>
 </div>
 <div class="theiaStickySidebar white-bg">

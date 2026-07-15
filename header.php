@@ -17,6 +17,9 @@ include('backend/include/siteinfo.php');
                 <div class="info-nav-wrap">
                     <div class="info-section">
                         <div class="right">
+                            <div style="float: left; padding: 11px 15px; border-right: 1px solid #e3e7ec;">
+                                <a href="dnb-radiodiagnosis.php" class="btn btn-danger btn-dnb-header" style="font-size: 11px; font-weight: 700; text-transform: uppercase; color: #fff; background: #eb222e; padding: 6px 12px; border-radius: 4px; border: none; box-shadow: 0 4px 10px rgba(235, 34, 46, 0.3); transition: all 0.3s ease; display: inline-block; line-height: normal; animation: navbarPulse 2s infinite; text-shadow: none;">DNB Radiodiagnosis</a>
+                            </div>
                             <div class="help">
                                 <a href="mailto:<?php echo $email; ?>">
                                     <i class="fa fa-commenting-o"></i>
@@ -90,7 +93,13 @@ include('backend/include/siteinfo.php');
                                         </ul>
                                     </li>
                                     <li><a href="doctors.php">Doctors</a></li>
-                                    <li><a href="https://www.anandalokeinstitute.com/" target="_blank">Academics</a></li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Academics </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="dnb-radiodiagnosis.php">DNB Radiodiagnosis</a></li>
+                                            <li><a href="https://www.anandalokeinstitute.com/" target="_blank">Academics Institute</a></li>
+                                        </ul>
+                                    </li>
                                     <li><a href="corporate-affairs.php">Corporate</a></li>
                                     <li><a href="social-responsibility.php">CSR</a></li>
                                     <li class="dropdown">

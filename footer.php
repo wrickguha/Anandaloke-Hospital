@@ -49,7 +49,8 @@
                         <li><a href="javascript:void(0);">Privacy Policy</a></li>
                         <li><a href="javascript:void(0);">Sitemap</a></li>
                         <li><a href="">Our Blog</a></li>
-                        <li><a href="https://www.anandalokeinstitute.com/" target="_blank">Academics</a></li>
+                        <li><a href="dnb-radiodiagnosis">DNB Radiodiagnosis</a></li>
+                        <li><a href="https://www.anandalokeinstitute.com/" target="_blank">Academics Institute</a></li>
                         <li><a href="career">Career</a></li>
                         <li><a href="contact">Contact Us</a></li>
                     </ul>
