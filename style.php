@@ -1,5 +1,6 @@
 <?php debug_backtrace() || header('location:404.php')?>
-<base href="https://<?php echo $_SERVER['SERVER_NAME'];?>/" />
+<?php $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http'); ?>
+<base href="<?php echo $protocol . '://' . $_SERVER['HTTP_HOST']; ?>/" />
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
 <link href="css/bootstrap.min.css" rel="stylesheet">
